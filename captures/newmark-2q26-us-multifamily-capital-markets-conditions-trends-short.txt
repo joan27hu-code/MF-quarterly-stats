@@ -1,0 +1,2489 @@
+ 2Q26 U.S. Multifamily Capital Markets
+ Conditions & Trends
+                  2Q 26
+
+
+
+
+NMRK.COM
+ NMRK.COM
+Access the Extended 2Q26 U.S. Multifamily Capital Markets Conditions & Trends Report
+                                         The extended version of this report includes:
+                                         •   Demand strengthened significantly in the first half of 2026, with
+                                             absorption reaching 279,000 units, the second-highest total on record,
+                                             even as new supply moderated and annual inventory growth slipped to
+                                             a 26-quarter low of 1.6%. Still, supply has not been fully absorbed, as
+                                             trailing 12-month demand trails supply by roughly 69,000 units,
+                                             keeping the market out of equilibrium.
+
+                                         •   Rent growth is diverging sharply across markets, making this a
+                                             stock picker's market, as the gap between the best- and worst-
+                                             performing metros has widened to 16.4%. Capital is rotating toward
+                                             markets with the strongest fundamentals, with major metro investment
+                                             share climbing to a 9-year high.
+                                         •   Debt capital availability improved in the first half of 2026, as
+          To access, please request          multifamily loan originations rose 26% year-over-year to $191 billion,
+                                             reflecting renewed lender confidence. Bank lending led the
+         the extended version from the       resurgence, surging 65% year-over-year.
+         report landing page, or reach
+        out to Mike.Wolfson@nmrk.com
+                                         • Extensive content across 70+ slides—a
+          or your Newmark contact.
+                                           detailed presentation packed with useful
+                                           multifamily capital markets information and
+                                           in-depth analysis.
+                                                                                                                       N E W MA R K   2
+U.S. Market Fundamentals
+2Q26 Key Leasing Market Fundamentals
+
+                      Demand as a %                         Annual Inventory                           Stabilized Vacancy                            % of Top 50 Mkts with
+      U.S.                             Quarterly Supply                         Multifamily Starts                           Effective Rent Growth
+                       of Inventory                             Growth                                         Rate                                   Positive YoY Rents
+    DEM AND
+
+
+                         DOWN               DOWN                DOWN                 DOWN                     FLAT
+                                                                                                                                       DOWN
+        UP                                                                                                                                                    UP
+
+  187K Units
+     103.8% QOQ
+                         1.3%          78K Units                1.6%            274K Units                   4.4%                  -0.2%                    46%
+                        260 BPS YOY       23.9% YOY           110 BPS YOY           11.6% QOQ             UNCHANGED YOY            100 BPS YOY              4% QOQ
+
+
+
+
+                                                          2Q26 Key Capital Markets Fundamentals
+
+                                                                                                                                                 Transactional Average Cap
+                                                            1H Origination Volume        GSE Market Share            1H26 Sales Volume
+                                                                                                                                                           Rates
+
+
+                                                                                                DOWN
+
+                                                                     UP                                                      UP                            UP
+
+
+                                                                  $191B                         39%                       $72.1 B                       5.79%
+                                                                   26% YOY                   40 BPS YOY                     5.6% YOY                    27 BPS YOY
+
+
+
+                                                                                                                                                              N EW MA R K    3
+            2Q26
+
+
+
+
+           Key Takeaways
+                   First-half absorption hit 279,000 units, the second-highest on record, while annual inventory growth fell to a 26-
+                   quarter low. Vacancy is bifurcating with stabilized assets tightening for six straight months to 4.4%, even as
+                   overall vacancy inches up. Rent declines are narrowing and are projected to turn positive by year-end, though
+                   concessions stay elevated. Capital markets are back in motion: debt originations accelerated, investment sales
+                   volume is building for a third straight year, and cap rates hold steady in the mid-5% range.
+
+
+
+
+                     Demand Hits Second-Highest          Supply Pipeline Normalizes              Debt Capital Markets              Investment Sales Build
+                            On Record                                                               Reaccelerate                         Momentum
+                                                          Inventory growth fell to a 26-
+                     1H absorption hit 279,000 units,       quarter low of 1.6%, and        Debt originations rose 26% year-   Trailing 12-month sales hit $174.0
+                    over double the long-term average,   construction activity dropped to   over-year in 1H26, led by a 65%     billion, up 11.1% year-over-year,
+                      led by the year's best quarter.      near pre-pandemic levels.             jump in bank lending.               as cap rates held steady.
+
+
+
+NMRK.COM
+ NMRK.COM                                                                                                                                                           4
+Table of Contents
+
+Demand Drivers                 06
+Fundamentals                   10
+Debt Capital Markets           28
+Investment Sales               36
+Pricing and Returns            45
+
+
+
+
+                       N EW MA R K   5
+Demand Drivers
+2 Q2 6
+
+
+
+
+N M R K . C OM
+Renting Remains Significantly More Cost-Effective Than Homeownership
+  Cost of Homeownership Compared to Renting                                                                                                                                                                                                                                                                                  ‾ As of the second quarter of 2026, the
+  $3,500                                                                                                                                                                                                                                                                                                                       spread between homeownership and
+                                                                                                                                                                                                                                                                                                                               renting costs totaled $1,176,
+                                                                                                                                                                                                                                                                                                                    $3,070     representing 2.7 times the long-term
+  $3,000                                                                                                                                                                                                                                                                                                                       average of $438. This elevated spread
+                                                                                                                                                                                                                                                                                                                               highlights significant affordability
+                                                                                                                                                                                                                                                                                                                               challenges facing potential
+  $2,500                                                                                                                                                                                                                                                                                                                       homebuyers.
+
+                                                                                                                                                                                                                                                                                                                             ‾ The cost-to-own premium saw a
+  $2,000                                                                                                                                                                                                                                                                                                            $1,894     decrease year over year, for the third
+                                                                                                                                                                                                                                                                                                                               consecutive quarter. However, the gap
+                                                                                                                                                                                                                                                                                                                               between ownership and rental costs
+  $1,500                                                                                                                                                                                                                                                                                                                       remains elevated, favoring renting
+                                                                                                                                                                                                                                                                                                                    $1,176     over homeownership.
+
+  $1,000
+
+
+
+     $500
+
+
+
+        $0
+                     3Q05
+
+
+                                   3Q06
+
+
+                                                 3Q07
+
+
+
+
+                                                                                                  1Q11
+
+
+                                                                                                                1Q12
+
+
+
+
+                                                                                                                                                                 3Q15
+
+
+                                                                                                                                                                               3Q16
+
+
+                                                                                                                                                                                             3Q17
+
+
+
+
+                                                                                                                                                                                                                                              1Q21
+
+
+                                                                                                                                                                                                                                                            1Q22
+
+
+
+
+                                                                                                                                                                                                                                                                                                             3Q25
+              1Q05
+
+
+                            1Q06
+
+
+                                          1Q07
+
+
+                                                        1Q08
+                                                               3Q08
+                                                                      1Q09
+                                                                             3Q09
+                                                                                    1Q10
+                                                                                           3Q10
+
+
+                                                                                                         3Q11
+
+
+                                                                                                                       3Q12
+                                                                                                                              1Q13
+                                                                                                                                     3Q13
+                                                                                                                                            1Q14
+                                                                                                                                                   3Q14
+                                                                                                                                                          1Q15
+
+
+                                                                                                                                                                        1Q16
+
+
+                                                                                                                                                                                      1Q17
+
+
+                                                                                                                                                                                                    1Q18
+                                                                                                                                                                                                           3Q18
+                                                                                                                                                                                                                  1Q19
+                                                                                                                                                                                                                         3Q19
+                                                                                                                                                                                                                                1Q20
+                                                                                                                                                                                                                                       3Q20
+
+
+                                                                                                                                                                                                                                                     3Q21
+
+
+                                                                                                                                                                                                                                                                   3Q22
+                                                                                                                                                                                                                                                                          1Q23
+                                                                                                                                                                                                                                                                                 3Q23
+                                                                                                                                                                                                                                                                                        1Q24
+                                                                                                                                                                                                                                                                                               3Q24
+                                                                                                                                                                                                                                                                                                      1Q25
+
+
+                                                                                                                                                                                                                                                                                                                    1Q26
+                                                                                                                                                                                                                                                                                                                                                       N EW MA R K      7
+Source: Newmark Research, RealPage, Atlanta Federal Reserve (July 21, 2026)
+High Rates Limiting Transactions; New Mortgages 50% Greater Than In-Place
+The 30-year fixed mortgage rate climbed to 6.49% in 2Q26, while the effective interest rate on outstanding mortgage debt rose to 4.33%, a spread of 216 basis points, or 50% higher
+on a relative basis, reflecting the mortgage rate lock-in effect. Assuming the 30-year rate holds steady, the effective rate's roughly 0.24% annual pace of increase since its 2022 low
+implies it would take about 8 to 9 years to converge with current rates. This prolonged gap suggests sustained pressure on homebuying that could, in turn, benefit multifamily.
+
+  30-Year Fixed Rate Mortgage Average and Effective Interest Rate on Mortgage Debt Outstanding
+ 10.00%
+
+
+
+
+  8.00%
+
+                                                                                                                                     6.49%
+
+  6.00%
+
+
+
+
+  4.00%                                                                                                                              4.33%
+
+
+
+
+  2.00%
+
+
+
+
+  0.00%
+             1Q00
+             3Q00
+             1Q01
+             3Q01
+             1Q02
+             3Q02
+             1Q03
+             3Q03
+             1Q04
+             3Q04
+             1Q05
+             3Q05
+             1Q06
+             3Q06
+             1Q07
+             3Q07
+             1Q08
+             3Q08
+             1Q09
+             3Q09
+             1Q10
+             3Q10
+             1Q11
+             3Q11
+             1Q12
+             3Q12
+             1Q13
+             3Q13
+             1Q14
+             3Q14
+             1Q15
+             3Q15
+             1Q16
+             3Q16
+             1Q17
+             3Q17
+             1Q18
+             3Q18
+             1Q19
+             3Q19
+             1Q20
+             3Q20
+             1Q21
+             3Q21
+             1Q22
+             3Q22
+             1Q23
+             3Q23
+             1Q24
+             3Q24
+             1Q25
+             3Q25
+             1Q26
+                                                  US 30 Year Mortgage Rate   Effective Interest Rates on Mortgage Debt Outstanding
+
+
+                                                                                                                                                                           N EW MA R K    8
+Source: Newmark Research, U.S. Bureau of Economic Analysis
+Rentals Accelerate in 2Q Following Three-Quarter Downward Trend
+Renter-occupied housing units rose by 472,000 year-over-year in the second quarter, snapping three consecutive quarters of deceleration. While growth remains well below the 2021
+surge and the recent cycle peak, the reversal suggests underlying rental demand is beginning to stabilize. Persistent for-sale affordability constraints continue to keep would-be buyers
+in the rental pool, reinforcing a durable renter base.
+
+  Renter Occupied Housing Units; Change from Year Ago in Thousands
+   4,000
+
+
+   3,000
+
+
+   2,000
+
+
+   1,000
+                                                                                                                                    472
+
+
+         0
+
+
+  -1,000
+
+
+  -2,000
+
+
+  -3,000
+
+
+  -4,000
+             4Q02
+
+
+
+
+             2Q06
+
+
+
+
+             4Q09
+
+
+
+
+             2Q13
+
+
+
+
+             4Q16
+
+
+
+
+             2Q20
+
+
+
+
+             4Q23
+             2Q01
+             4Q01
+             2Q02
+
+             2Q03
+             4Q03
+             2Q04
+             4Q04
+             2Q05
+             4Q05
+
+             4Q06
+             2Q07
+             4Q07
+             2Q08
+             4Q08
+             2Q09
+
+             2Q10
+             4Q10
+             2Q11
+             4Q11
+             2Q12
+             4Q12
+
+             4Q13
+             2Q14
+             4Q14
+             2Q15
+             4Q15
+             2Q16
+
+             2Q17
+             4Q17
+             2Q18
+             4Q18
+             2Q19
+             4Q19
+
+             4Q20
+             2Q21
+             4Q21
+             2Q22
+             4Q22
+             2Q23
+
+             2Q24
+             4Q24
+             2Q25
+             4Q25
+             2Q26
+                                                                                                                                                                            N EW MA R K     9
+Source: Newmark Research, U.S. Census Bureau, Federal Reserve Bank of St. Louis
+Fundamentals
+2 Q2 6
+
+
+
+
+N M R K . C OM
+Absorption Rebounds in 2Q; First-Half Demand Surges to Second-Highest on Record
+First-half demand was a clear bright spot, with over 279,000 units absorbed, representing the second-largest first-half total on record and 103.8% above the long-term average. That
+strength was led by a surge in second-quarter activity, which posted the best quarterly absorption of the past four quarters at more than 187,000 units.
+
+
+  Quarterly & Trailing 12-Month Demand; Units in Thousands                                                                                        Historical First Half Demand
+   800                                                                                                                                                   (in Thousands)
+                                                                                                                                           2000
+
+                                                                                                                                           2002
+   600
+                                                                                                                                           2004
+
+                                                                                                                                           2006
+
+                                                                                                                                           2008
+   400
+                                                                                                                                           2010
+
+                                                                                                                                           2012
+                                                                                                                                 187
+   200
+                                                                                                                                           2014
+
+                                                                                                                                           2016
+
+      0                                                                                                                                    2018
+
+                                                                                                                                           2020
+
+                                                                                                                                           2022
+  -200
+                                                                                                                                           2024
+          1Q15
+          2Q15
+          3Q15
+          4Q15
+          1Q16
+          2Q16
+          3Q16
+          4Q16
+          1Q17
+          2Q17
+          3Q17
+          4Q17
+          1Q18
+          2Q18
+          3Q18
+          4Q18
+          1Q19
+          2Q19
+          3Q19
+          4Q19
+          1Q20
+          2Q20
+          3Q20
+          4Q20
+          1Q21
+          2Q21
+          3Q21
+          4Q21
+          1Q22
+          2Q22
+          3Q22
+          4Q22
+          1Q23
+          2Q23
+          3Q23
+          4Q23
+          1Q24
+          2Q24
+          3Q24
+          4Q24
+          1Q25
+          2Q25
+          3Q25
+          4Q25
+          1Q26
+          2Q26
+                                                                                                                                           2026                         279
+                                                       Quarterly      Trailing 12-Month                                                        -100        100        300          500
+
+
+                                                                                                                                                                            N EW MA R K   11
+Source: Newmark Research, RealPage
+South Holds the Largest Share, but Northeast and West Are Gaining Ground
+The South remains the largest share of demand at 50.1%, though the Northeast and West posted the strongest year-over-year gains, with market share improving 2.2% and 2.0%,
+respectively. Both regions are also outperforming on an absolute basis, with 2Q market share above their long-term averages.
+
+
+
+  Trailing 12-Month Demand by Region; Units in Thousands                                    Trailing 12-Month Demand by Region; Market Share
+  1,000                                                                                     80.0%
+
+
+
+    800                                                                                     70.0%
+
+
+                                                                                            60.0%
+    600
+
+                                                                                            50.0%                                                                             50.1%
+    400
+
+                                                                                            40.0%
+    200
+                                                                                            30.0%
+                                                                                                                                                                              25.1%
+       0
+                                                                                            20.0%
+
+                                                                                                                                                                              12.5%
+   -200                                                                                                                                                                       12.3%
+                                                                                            10.0%
+
+
+   -400                                                                                      0.0%
+
+
+
+                                     Midwest   Northeast   South   West                                            Midwest      Northeast     South       West
+
+
+                                                                                                                                                                    N EW MA R K       12
+Source: Newmark Research, RealPage
+2Q Uptick Aside, the Downward Trend Holds as Inventory Growth Hits a 26-Quarter Low
+Deliveries totaled 78,000 units in the second quarter, pushing quarterly supply above the first quarter's total, but the broader trend remains firmly downward. Annual inventory growth
+ticked down to 1.6%, its lowest level in 26 quarters, reinforcing that the supply wave that peaked in 2024 continues to recede.
+
+
+      Quarterly Supply and Annual Inventory Growth; Units in Thousands
+                    175                                                                                                       3.5%
+
+
+
+                    150                                                                                                       3.0%
+
+
+
+                    125                                                                                                       2.5%
+
+
+
+
+                                                                                                                                     Annual Inventory Growth
+ Quarterly Supply
+
+
+
+
+                    100                                                                                                       2.0%
+
+
+
+                     75                                                                                                       1.5%
+
+
+
+                     50                                                                                                       1.0%
+
+
+
+                     25                                                                                                       0.5%
+
+
+
+                      0                                                                                                       0.0%
+
+
+
+
+                                                                                                                                                                          N EW MA R K     13
+Source: Newmark Research, RealPage
+Demand Falls Short of Supply as the Market Tips Back Out of Equilibrium
+As of the second quarter, trailing 12-month demand trails supply by 69,000 units, or 20.3% on a relative basis. This marks the third consecutive quarter in which supply has outpaced
+demand, with the gap widening each quarter.
+
+
+
+  Trailing 12-Month Demand minus 12-Month Supply; Units in Thousands                           Trailing 12-Month Demand Relative to Supply (Gap vs. Equilibrium)
+   500                                                                                         250%
+
+   400
+                                                                                               200%
+
+   300
+                                                                                               150%
+   200
+                                                                                               100%
+   100
+
+      0                                                                                         50%
+
+
+  -100                                                                               -69         0%
+
+  -200                                                                                                                                                                          -20.3%
+                                                                                                -50%
+  -300
+                                                                                               -100%
+  -400
+
+                                                                                               -150%
+  -500
+
+  -600                                                                                         -200%
+          1Q11
+
+          1Q12
+
+
+
+
+          3Q14
+
+          3Q15
+
+
+
+
+          1Q18
+
+
+
+
+          3Q21
+
+
+
+
+          1Q25
+          1Q10
+          3Q10
+
+          3Q11
+
+          3Q12
+          1Q13
+          3Q13
+          1Q14
+
+          1Q15
+
+          1Q16
+          3Q16
+          1Q17
+          3Q17
+
+          3Q18
+          1Q19
+          3Q19
+          1Q20
+          3Q20
+          1Q21
+
+          1Q22
+          3Q22
+          1Q23
+          3Q23
+          1Q24
+          3Q24
+
+          3Q25
+          1Q26
+
+
+
+
+                                                                                                       1Q12
+
+
+
+
+                                                                                                       3Q15
+                                                                                                       1Q16
+
+
+
+
+                                                                                                       3Q19
+                                                                                                       1Q20
+
+
+
+
+                                                                                                       3Q23
+                                                                                                       1Q10
+                                                                                                       3Q10
+                                                                                                       1Q11
+                                                                                                       3Q11
+
+                                                                                                       3Q12
+                                                                                                       1Q13
+                                                                                                       3Q13
+                                                                                                       1Q14
+                                                                                                       3Q14
+                                                                                                       1Q15
+
+
+                                                                                                       3Q16
+                                                                                                       1Q17
+                                                                                                       3Q17
+                                                                                                       1Q18
+                                                                                                       3Q18
+                                                                                                       1Q19
+
+
+                                                                                                       3Q20
+                                                                                                       1Q21
+                                                                                                       3Q21
+                                                                                                       1Q22
+                                                                                                       3Q22
+                                                                                                       1Q23
+
+                                                                                                       1Q24
+                                                                                                       3Q24
+                                                                                                       1Q25
+                                                                                                       3Q25
+                                                                                                       1Q26
+                                                                                                                                                                         N EW MA R K     14
+Source: Newmark Research, RealPage
+Starts Continue to Tail Off as Backlog Between Approval and Groundbreaking Grows
+The widening spread between multifamily permits and starts, now the largest since 2010, reflects a feasibility standoff rather than a construction slowdown. Elevated costs and tighter
+financing have made many permitted projects uneconomical to start, while lingering oversupply from the 2022–2024 delivery boom removes any urgency to break ground into soft
+rents.
+
+  Trailing 12-Month Unit Starts and Multifamily Permits; Units in Thousands
+   700
+
+
+   600
+
+
+   500
+
+
+   400
+
+
+   300
+
+
+   200
+
+
+   100
+
+
+      0
+
+
+  -100
+
+
+
+                            Unconverted Permit Backlog (Permits minus Starts)   Annual Unit Starts   Annual Multifamily Permits
+
+
+                                                                                                                                                                          N EW MA R K     15
+Source: Newmark, RealPage
+Construction Costs Reaccelerate, Adding to Starts' Headwinds
+After moderating to just 2.5% growth in 2023–2024, net construction input costs have reaccelerated to 4.5% year-to-date in 2026 and 5.7% year-over-year. This renewed cost pressure
+adds another likely contributor to the construction pullback.
+
+
+
+  Producer Price Index by Commodity: Net Inputs to Multifamily Residential Construction (ex- Capital Investment, Labor & Imports)
+  180
+                                                                                               2020-2022                         2023-2024                   2025         2026
+                                                                                                +29.7%                             +2.5%                    +3.0%         YTD
+                                                                                                                                                                         +4.5%
+  170
+
+
+  160
+
+
+  150
+
+
+  140
+
+
+  130
+
+
+  120
+
+
+  110
+
+
+  100
+
+
+
+
+                                                                                                                                                                      N EW MA R K     16
+Source: Newmark Research, U.S. Bureau of Labor Statistics, Federal Reserve Bank of St. Louis
+Sun Belt Markets See Largest Inventory Growth Gains Year-over-Year
+In the second quarter of 2026, Phoenix led the top 50 markets in both annual inventory growth, at 4.3%, and trailing 12-month deliveries, at just over 20,000 units. By contrast, New
+York added nearly 19,000 units over the same period, yet posted inventory growth of just 0.9%.
+
+
+
+  Trailing 12-Month Deliveries & Inventory Change; Top 50 Markets
+
+                                                                                                   Mid-Atlantic/Northeast      Midwest       Southeast/Southwest    West
+
+                             5.0%
+
+
+                                                                                                                                                                                            PHX
+                                                                                                                            CHA
+                             4.0%
+                                                                                                                FW
+   Annual Inventory Change
+
+
+
+
+                                                                                                 NASH                                      AUS
+                                                                                                 COL
+                             3.0%                                                          RD               ORL
+                                                                                                                                                                           NNJ
+                                                                                            SA
+                                                                                                                DEN
+                                                                JAX                                                                                                              DAL
+                                                      SLC                                         TAM
+                                                                            FLL
+                             2.0%                                                            SD                                        ATL
+                                                                      KC             MIA
+                                                       RICH
+                                                                           LV                      BOS
+                                              GSO     RIV                                                                            HOU
+                                                                                           PHI
+                                                          CIN
+                             1.0%       WPB          MIL                                            DC
+                                                                                                                                                                                 NY
+                                                    CLE    OC              SEA                                 LA
+                                        SJ              MSP
+                                                                       CHI
+                                                    DET
+                                               SF
+                             0.0%
+                                    0                                        5,000                                10,000                                   15,000                      20,000          25,000
+                                                                                                                            Trailing 12-Month Deliveries
+
+
+                                                                                                                                                                                                  N EW MA R K   17
+Source: Newmark Research, RealPage
+Delivery Rates Are Rising in a Few Markets, but Construction Pipelines Keep Shrinking
+Of the top 50 markets, Cincinnati is the only one where both the delivery rate as a share of inventory and units under construction rose year over year, though the increases are
+negligible. Six other markets, Fort Worth, San Diego, Pittsburgh, Boston, Los Angeles and Cleveland, saw the delivery rate as a percentage of inventory tick up year over year, but all
+six still saw units under construction decline over the same period. This underscores how broadly supply growth is decelerating across the top markets, with Cincinnati standing alone
+as a true exception.
+  Year-over-Year Change in Units Under Construction and in Annual Deliveries as a % of Inventory; Top 50 Markets
+                                                        60.0%
+
+                                                                                                                                                                     OC
+                                                                                                       SJ                               WPB
+    Year-over-Year Cahnge in Units Under Construction
+
+
+
+
+                                                        40.0%
+
+                                                                                                    SEA                     MSP                                CHI
+                                                                                     RD
+                                                                                                                                                     STL         SF
+                                                        20.0%                                                                                                    KC
+                                                                                                                                  MIA               GSO
+
+                                                                                                                                          HOU
+                                                                                                              DAL                  MIL                             CIN
+                                                                                                                            IND              BAL                 NNJ
+                                                         0.0%                                                                           DC                                 LA
+                                                                                                                                                    OAK
+                                                                                                                  NASH          POR        PHI
+                                                                                                        DEN                                                                      PITT
+                                                                                                                    TAM                 RICH                    NY
+                                                        -20.0%                            SLC                                   ORL                                                     SD
+                                                                               CHA                          ATL                   SAC                                DET
+                                                                                                                          PHX                         FLL                  CLE
+                                                                                                                                                                                                    FW
+                                                                      AUS                                                                                      COL
+                                                                                            JAX                                               VAB                     BOS
+                                                                                                                                                          LV
+                                                        -40.0%                                                        RIV
+
+
+                                                        -60.0%
+
+                                                                                                        SA
+                                                                                                                                         MEM
+                                                        -80.0%
+                                                              -5.0%    -4.0%     -3.0%              -2.0%                         -1.0%                          0.0%                        1.0%              2.0%
+                                                                                                Year-over-Year Change in Annual Deliveries as a % of Inventory
+
+
+                                                                                                                                                                                                         N EW MA R K   18
+Source: Newmark Research, RealPage
+Stabilized Vacancy Has Trended Downward for Six Consecutive Months
+Stabilized vacancy fell again in June to 4.4%, extending its downward trend to six consecutive months, while overall vacancy, which includes lease-up product, ticked up slightly to
+6.0% from 5.9%. This widened the spread between the two to 160 basis points, though overall vacancy still improved 40 basis points year-over-year.
+
+
+  Stabilized & Overall Vacancy Rate
+ 12.0%
+
+
+
+ 10.0%
+
+
+
+   8.0%
+
+
+
+   6.0%                                                                                                                          6.0%
+
+
+                                                                                                                                 4.4%
+   4.0%
+
+
+
+   2.0%
+
+
+
+   0.0%
+
+
+
+
+                                       Spread        Stabilized Vacancy Rate     Overall Vacancy Rate
+
+
+                                                                                                                                                                         N EW MA R K   19
+Source: Newmark Research, RealPage
+Rent Declines Persist for a Fourth Straight Quarter, but the Losses Are Shrinking
+Year-over-year effective rent change nationally has now been negative for four consecutive quarters, though the magnitude of decline has shrunk over the past two quarters. This
+gradual improvement is consistent with forecasts that national rent growth will return to positive territory by the fourth quarter of 2026.
+
+
+  Year-over-Year Effective Rent Change
+  20.0%
+
+
+
+
+  15.0%
+
+
+
+
+  10.0%
+
+
+
+
+   5.0%
+                                                                  Long-Term Average = 3.3%
+
+
+
+
+   0.0%
+                                                                                                                               -0.2%
+
+
+
+  -5.0%
+
+
+
+
+                                                                                                                                                                         N EW MA R K   20
+Source: Newmark Research, RealPage
+23 of 50 Markets Post Positive Rent Growth, While Others Have Been on an Extended Run
+As of the second quarter of 2026, 23 of the top 50 markets posted positive year-over-year rent change, marking the second consecutive quarterly increase since bottoming out in the
+fourth quarter of 2025. Cincinnati, Columbus, St. Louis, and Philadelphia have posted positive rent growth for an unbroken 65 consecutive quarters, with Detroit, Cleveland, Kansas
+City, and Milwaukee close behind at 64.
+
+
+  Number of Markets with Y-o-Y Positive Rent Change; Top 50 Markets                           Markets with Consecutive Y-o-Y Positive Rent Change*; Top 50 Markets
+  50
+                                                                                                  Cincinnati                                                                           65
+                                                                                                  Columbus                                                                             65
+                                                                                                   St. Louis                                                                           65
+  40                                                                                            Philadelphia                                                                           65
+                                                                                                     Detroit                                                                          64
+                                                                                                  Cleveland                                                                           64
+                                                                                                Kansas City                                                                           64
+  30                                                                                             Milwaukee                                                                            64
+                                                                                              Virginia Beach                                                               48
+                                                                                                   Anaheim                                22
+                                                                                                  Pittsburgh                             21
+  20
+                                                                                                Minneapolis                              21
+                                                                                                    Chicago                              20
+                                                                                                    Newark                               20
+                                                                                                  New York                               20
+  10
+                                                                                              San Francisco                 10
+                                                                                                  San Jose              9
+                                                                                                   Oakland         6
+   0                                                                                                           0       10           20             30         40          50     60         70
+       1Q10
+
+
+
+
+       1Q12
+
+
+
+       3Q13
+
+
+
+
+       3Q15
+
+
+       1Q17
+
+
+
+
+       1Q19
+
+
+
+
+       1Q21
+
+
+       3Q22
+
+
+
+
+       3Q24
+
+
+
+       1Q26
+       3Q10
+       1Q11
+       3Q11
+
+       3Q12
+       1Q13
+
+       1Q14
+       3Q14
+       1Q15
+
+       1Q16
+       3Q16
+
+       3Q17
+       1Q18
+       3Q18
+
+       3Q19
+       1Q20
+       3Q20
+
+       3Q21
+       1Q22
+
+       1Q23
+       3Q23
+       1Q24
+
+       1Q25
+       3Q25
+
+
+
+
+                                                                                                                             West        Midwest        Mid-Atlantic/Northeast
+
+
+                                                                                                                                                                                 N EW MA R K     21
+Source: Newmark Research, RealPage
+*Minimum of five quarters.
+Market Dispersion Expands as Top and Bottom Performers Pull Apart
+The spread between the top and bottom performing markets has widened to 16.4% as of the second quarter, extending a trend that began in the third quarter of 2023. As the gap
+between winners and laggards grows, market selection becomes as much about avoiding the weakest performers as chasing the strongest ones.
+
+
+  Variance in Year-over-Year Effective Rent Change Among the Top 50 Markets
+   50.0%
+
+
+   40.0%
+
+
+   30.0%
+
+
+   20.0%                                                                                                                      16.4%
+
+
+   10.0%
+
+
+    0.0%
+
+
+  -10.0%
+
+
+  -20.0%
+
+
+  -30.0%
+
+
+  -40.0%
+
+
+
+                                                Top Market      Bottom Market      Spread
+
+
+                                                                                                                                                                       N EW MA R K   22
+Source: Newmark Research, RealPage
+Momentum Diverges as Sun Belt Markets Show Signs of Bottoming
+San Francisco posted both the strongest rent growth (10.6%) and the largest four-quarter improvement (+3.6%), followed closely by San Jose and Virginia Beach, each up 2.9%.
+Notably, Denver and Austin also rank among the biggest momentum gainers, up 2.3% each, suggesting these markets may be bottoming out.
+
+
+  Year-over-Year Effective Rent Change and Four Quarter Change; Top 50 Markets
+   12.0%
+
+
+
+    8.0%
+
+
+
+    4.0%
+
+
+
+    0.0%
+
+
+
+   -4.0%
+
+
+
+   -8.0%
+
+
+
+
+                                                  Mid-Atlantic/Northeast   Midwest   Southeast/Southwest   West   Four Quarter Change
+
+
+                                                                                                                                                                     N EW MA R K   23
+Source: Newmark Research, RealPage
+Class A's Dominance Streak Hits 21 Quarters as the Class Spread Widens
+Class A rent growth has now outperformed Class B for 21 consecutive quarters, while Class C has posted negative year-over-year rent change for 11 straight quarters. This underscores
+a durable, multi-year flight to quality among renters. Even so, all three classes saw a quarter-over-quarter pickup in the second quarter of 2026, with Class A reaccelerating to 1.6% and
+Class B improving 40 basis points. The gap between Class A and Class C still widened to 410 basis points, the widest spread since 2022.
+
+  Year-over-Year Effective Rent Change by Class
+                                                      Class A      Class B      Class C
+
+   20.0%                                                                                                                                                        21
+                                                                                                                                              Consecutive quarters in which Class A has
+   15.0%                                                                                                                                               outperformed Class B
+
+
+
+   10.0%
+
+
+
+    5.0%
+                                                                                                                                                               410
+                                                                                                                                             Basis point gap between Class A and Class C
+                                                                                                                                   1.6%       rent change, the widest spread since 2Q22
+    0.0%                                                                                                                          -0.1%
+
+                                                                                                                                  -2.5%
+
+   -5.0%
+
+                                                                                                                                                                11
+  -10.0%                                                                                                                                    Consecutive quarters in which Class C has had
+                                                                                                                                                negative year-over-year rent change
+
+
+
+                                                                                                                                                                            N EW MA R K     24
+Source: Newmark Research, RealPage
+Operators Lean on Renewals as New Lease Trade-Outs Turn Negative
+Landlords are increasingly prioritizing tenant retention to preserve occupancy and capture stronger renewal pricing, as new lease trade-outs have turned negative at -3.4% while
+renewal rate growth holds at 3.6%. This 695 basis point spread is the widest gap in favor of renewals since 2009, underscoring just how much more attractive retaining existing
+residents has become relative to chasing new leases in the current environment.
+
+     New Lease and Renewal Trade Outs; Rolling Four Quarter Average
+
+        20.0%                                  Spread (in BPS)      New Lease       Renewal                                     2,000
+
+
+
+        15.0%                                                                                                                   1,500
+
+
+
+        10.0%                                                                                                                   1,000
+
+
+
+
+                                                                                                                                         Spread (in BPS)
+                                                                                                                          695
+Trade Outs
+
+
+
+
+             5.0%                                                                                                               500
+
+
+
+             0.0%                                                                                                               0
+
+
+
+             -5.0%                                                                                                              -500
+
+
+
+     -10.0%                                                                                                                     -1,000
+                     1Q05
+                     3Q05
+                     1Q06
+                     3Q06
+                     1Q07
+                     3Q07
+                     1Q08
+                     3Q08
+                     1Q09
+                     3Q09
+                     1Q10
+                     3Q10
+                     1Q11
+                     3Q11
+                     1Q12
+                     3Q12
+                     1Q13
+                     3Q13
+                     1Q14
+                     3Q14
+                     1Q15
+                     3Q15
+                     1Q16
+                     3Q16
+                     1Q17
+                     3Q17
+                     1Q18
+                     3Q18
+                     1Q19
+                     3Q19
+                     1Q20
+                     3Q20
+                     1Q21
+                     3Q21
+                     1Q22
+                     3Q22
+                     1Q23
+                     3Q23
+                     1Q24
+                     3Q24
+                     1Q25
+                     3Q25
+                     1Q26
+                                                                                                                                                                         N EW MA R K   25
+Source: Newmark Research, RealPage
+Concessions Climb to Highest Levels Since 2015 as Landlords Compete for Renters
+Concessions have climbed to 7.6% of asking rents as of the second quarter, the highest level since 2015 and a sharp acceleration from the 4.6% trough reached in early 2023. At the
+same time, 24.6% of units are now offering concessions, near the cycle high of 25.4%, indicating that both the size and breadth of concessions are increasing simultaneously as
+landlords compete to fill units amid elevated supply.
+
+
+  Concessions (as a Percentage of Asking Rents)                                                Percentage of Units Offering Concessions
+  8.0%                                                                             7.6%       30.0%
+
+
+
+  7.0%
+                                                                                              25.0%
+                                                                                                                                                                                24.6%
+  6.0%
+                                                                                              20.0%
+
+  5.0%
+
+                                                                                              15.0%
+
+  4.0%
+
+
+                                                                                              10.0%
+  3.0%
+
+
+                                                                                               5.0%
+  2.0%
+
+
+
+  1.0%                                                                                         0.0%
+
+
+
+
+                                                                                                                                                                         N EW MA R K    26
+Source: Newmark Research, RealPage
+Class C Leads Concession Usage in Every Region, but the South Stands Out
+  Percentage of Units Offering Concessions by Class & Region: Midwest   Percentage of Units Offering Concessions by Class & Region: Northeast
+  25.0%                                                                 25.0%
+
+
+  20.0%                                                                 20.0%                                                        18.5%
+                                                               17.5%
+                             15.6%      15.4%                                          15.2%                  15.2%
+  15.0%                                                                 15.0%
+
+
+  10.0%                                                                 10.0%
+
+
+   5.0%                                                                 5.0%
+
+
+   0.0%                                                                 0.0%
+                            Class A    Class B                Class C                 Class A                Class B                Class C
+
+
+  Percentage of Units Offering Concessions by Class & Region: South     Percentage of Units Offering Concessions by Class & Region: West
+  50.0%                                                                 30.0%                                                        27.5%
+                                                               40.5%
+                                                                        25.0%
+  40.0%
+                                                                                                              20.2%
+                                        30.7%                           20.0%          18.2%
+  30.0%                      25.6%
+                                                                        15.0%
+  20.0%
+                                                                        10.0%
+
+  10.0%
+                                                                         5.0%
+
+   0.0%                                                                  0.0%
+                            Class A    Class B                Class C                 Class A                 Class B                Class C
+
+                                                                                                                                           N EW MA R K   27
+Source: Newmark Research, RealPage
+Debt Capital Markets
+2 Q2 6
+
+
+
+
+N M R K . C OM
+Newmark Scenario Weighted 10-Year Treasury Yield at 4.4%
+Markets constantly weigh different narratives about the future, with each new data point reshaping the odds across various scenarios. In today’s low conviction market, even small
+amounts of data can produce quantum shifts in the dominant narrative, producing nonlinear changes in market pricing. Markets are sorting through the avalanche of policy
+announcements and changes that will materially change the U.S. economic landscape, although our dominant outcome foresees stubborn inflation alongside low but positive growth.
+Newmark Research’s probability-weighted scenarios suggest the 10-year Treasury is fairly valued in a trading range around 4.4%.
+
+
+
+                                                                     Fed Funds (Upper) in 12                                           Credit Spreads          NMRK Research
+               Narrative                          Definition                                   Long-term Fed Funds   10Y Treasury
+                                                                            Months                                                      (vs. Current)          Probability (NTM)
+
+
+       Inflation Accelerating,
+                                           Inflation Rising, >2.5%                                                                        Narrower
+             Low Growth                                                  4.25% to 5.00%          4.00% to 5.00%      5.00% to 5.50%                                  25%
+                                            GDP Growth < 2.0%                                                                             (slightly)
+             (Stagflation)
+
+
+         Inflation Stubborn,
+                                           Inflation Stable > 2.5%
+             Low Growth                                                  3.50% to 4.25%          3.00% to 4.00%      4.25% to 4.75%          Flat                    35%
+                                            GDP Growth < 2.0%
+         (Decaf Stagflation)
+
+
+    Inflation Stubborn, Growth
+                                           Inflation Stable > 2.5%                                                                        Narrower
+              Moderate                                                   3.75% to 4.25%          3.50% to 4.50%      4.25% to 5.00%                                  15%
+                                            GDP Growth > 2.0%                                                                             (slightly)
+          (AI Exuberance)
+
+
+
+                                             Inflation <=2.0%                                                                           Much Wider
+               Recession                                                     0.00%               2.00% to 3.00%      2.75% to 3.75%                                  20%
+                                           Unemployment > 5.5%                                                                         (esp. if no QE)
+
+
+
+
+                                             Inflation ~2.0%                                                                              Narrower
+               Goldilocks                                                2.50% to 3.50%          3.00% to 4.00%      3.50% to 4.25%                                   5%
+                                            GDP Growth ~2.0%                                                                              (slightly)
+
+
+
+                                                                                                                                                                       N EW MA R K   29
+Source: Newmark Research as of 7/14/2026
+Multifamily Debt Originations Accelerated 26% Year-Over-Year in 1H26
+Activity gained momentum in the first half of 2025 and has extended through the first half of 2026, accelerating 26% year over year. Borrowers benefited from narrow loan spreads,
+improved confidence in fundamentals as construction slowed, and continued momentum starting in the second half of 2024.
+
+
+  Multifamily Debt Origination Volume* ($, Billions)
+   500
+
+
+   450
+
+
+   400
+
+                                                                                                                                                                      153     85
+   350
+                                                                                                                                                                                                  130
+   300                                                                                                                                                   99
+                                                                                                                                                               109
+                                                                                                                                                                             101
+                                                                                                                                              87
+   250
+                                                                                                                                75                                    114                   94
+                                                                                                                       70
+   200                                                                                                                                                   98                          57           106
+                                                                                                                64                                              71
+                                                                                                                                              82
+                                                                                                                                71                                           118
+   150                                                                                                                 65                                                            54     73                99
+                                                                                                                54
+                                                                                             56                                                          93     81     98
+   100                                                                                                                                        72                                                   87
+                                                        33                 29                                          58       68                                                   69     62
+                                                                          23                41                  56
+                                      23                28
+     50                               18                                  29                                                                                                 102                              92
+                   19                                   23                                  24                         60                     64         66     76     72                          64
+                   13                 20                                                                        47              56                                                   50     47
+                   8                  15                22                29                24
+       -           7
+                  2010              2011              2012              2013               2014                2015   2016    2017           2018       2019   2020   2021   2022   2023   2024   2025       2026
+
+                                                                                                                             Qtr 1   Qtr 2     Qtr 3   Qtr 4
+
+
+                                                                                                                                                                                                         N EW MA R K   30
+Source: RCA, Newmark Research as of 7/14/2026
+Note: loan origination volumes are adjusted for future expected revisions using Newmark’s proprietary models
+Bank Multifamily Originations Tick Up; Debt Funds Accelerate
+GSEs and banks remained the largest lenders in 2026, with 1H26 total volume up 26% year over year. Banks posted the strongest growth, with volume rising 65% year over year,
+while financial firms also accelerated sharply, rising 45%.
+
+
+  Rolling 12-Month Multifamily Loan Origination Volume; Dollars in Millions
+  200
+
+
+  180
+
+
+  160
+
+
+  140
+
+
+  120
+
+
+  100
+
+
+    80
+
+
+    60
+
+
+    40
+
+
+    20
+
+
+      0
+          02          03           04           05          06           07           08           09          10      11   12      13   14      15   16    17     18     19       20   21   22   23   24    25     26
+
+                                                                                              Bank              CMBS        Insurance    Financial    Government Agency        Other
+
+
+                                                                                                                                                                                                            N EW MA R K   31
+Source: RCA, Newmark Research as of 7/14/2026
+Note: loan origination volumes are adjusted for future expected revisions using Newmark’s proprietary models
+GSEs Continue to Be Preferred Lender; Non-Bank Lenders Accumulating Market Share
+GSEs continue to lead multifamily originations by market share, though their dominance has recently declined slightly. Bank participation pulled back sharply in 2023 and 2024, with
+market share dropping from 42% in 2023 to 21% in 2025. However, banks have been regaining some share since an uptick in 2025. Additionally, debt funds have significantly
+increased their activity.
+
+  Origination Share by Lender Group: Rolling 12-Month Average
+      80%
+
+
+      70%
+
+
+      60%
+
+
+      50%
+
+
+      40%                                                                                                                                                                                      39%
+
+
+      30%
+                                                                                                                                                                                               28%
+
+                                                                                                                                                                                               23%
+      20%
+
+
+      10%
+                                                                                                                                                                                               6%
+                                                                                                                                                                                               3%
+        0%
+              13                     14                     15                    16                     17     18     19         20           21            22         23   24   25      26
+
+                                                                                                        Bank   CMBS   Insurance    Financial        Government Agency
+
+
+                                                                                                                                                                                       N EW MA R K   32
+Source: RCA, Newmark Research as of 7/14/2026
+Note: loan origination volumes are adjusted for future expected revisions using Newmark’s proprietary models
+Active Lenders In Multifamily Have Been Growing Since Early 2024
+Both the number of active lenders and overall origination volume remain roughly equal to pre-pandemic levels.
+
+
+
+
+  Multifamily Debt Origination Volume ($, Billions)
+                            180.00                                                                                                                                                     1000
+
+                                                                                                                                                                       Mar-26, 689
+                            160.00                                                                                                                                                     900
+                                                                                                                                                         Jun-22, 837
+                                                                                                                                                                                       800
+                            140.00                                                                                      Jun-20, 636
+                                                                                                                                                                                       700
+                            120.00
+      Dollars In Billions
+
+
+
+
+                                                                                                                                                                                       600
+
+
+
+
+                                                                                                                                                                                              Count (#)
+                            100.00
+                                                                                                                                                                                       500
+                             80.00
+                                                                                                                                                                                       400
+                             60.00
+                                                                                                                                                                                       300
+
+                             40.00
+                                                                                                                                                                                       200
+
+                             20.00                                                                                                                                                     100
+
+                                -                                                                                                                                                      0
+
+
+
+
+                                                                                                               Volume         Number Of Active Lenders
+
+
+                                                                                                                                                                                     N EW MA R K          33
+Source: RCA, Newmark Research as of 7/14/2026
+Note: loan origination volumes are adjusted for future expected revisions using Newmark’s proprietary models
+$757 Billion in Multifamily Loans Will Mature in 2026-2028
+Banks hold 23% of debt maturities from 2026 to 2034, but a disproportionately high 35% of 2026 through 2028 maturities. Debt fund maturities show a similar frontloaded pattern—
+18% near-term compared to 10% overall—mirroring trends in CLO-driven securitized lending. In contrast, GSE maturities are heavily backloaded.
+
+
+  Multifamily Loan Maturities by Lender Group*
+  300
+                     297
+
+
+  250                 39
+                                                            237      237              235
+                                                 223
+
+  200                 57
+                                                                                                                         187
+                                                  47        92
+                      17
+                                                                     137                              152
+  150                                                                                 159
+                                                  42
+
+                                                            35                                                           128
+                                                  23
+  100                                                                                                 105
+                     127                                    19                                                                      79
+                                                                      17
+                                                                                                                                                     58               61
+                                                  81                  19
+   50                                                       60
+                                                                                                                                    63
+                                                                      35                                                 32                          40               52
+                                                                                       32
+                      31                                                                              21
+                                                  19        24        17               15                                19         7                9
+     0                                                                                                9
+                    2026                         2027       2028     2029             2030           2031               2032       2033             2034             2035
+
+                                                                   Insurance   Bank   CMBS   Debt Funds     Government Agency
+
+
+                                                                                                                                                                    N EW MA R K    34
+Source: MBA, Trepp, RCA, Newmark Research as of 7/14/2026
+*Adjusted for year-to-date estimated loan originations
+Debt Yields Point to Similar Levels of Refinancing Challenges
+The share of maturing securitized loans with a debt yield of 7% or less broadly corresponds to loans in the higher risk category (DSCR < 1.25x). The distribution of debt yield is fairly
+uniform in multifamily, retail, and hotel, while industrial CMBS shows far less exposure to assets with a debt yield below 6%. On the other side of the spectrum, a far higher share of
+office has a debt yield below 6%. With 22% of office inventory in buildings less than 70% occupied, it follows distress would also be concentrated.
+
+
+  Debt Yield Profile of Outstanding Securitized CRE Debt Maturing Before 2028
+                               Overall                  Multifamily                      Industrial                     Office                Retail                           Hotel
+  100%
+
+   90%
+
+   80%
+                                                                                                                     52% / $37.7B
+   70%                                                 58% / $74.2B                    57% / $20.8B
+                          61% / $219.7B
+                                                                                                                                                                           72% / $35.5B
+                                                                                                                                           76% / $6.4B
+   60%
+
+   50%
+                                                                                                                      7% / $4.8B
+   40%
+
+                           12% / $44.3B                17% / $21.5B                                                  17% / $11.9B
+   30%                                                                                  25% / $9.2B
+
+                                                                                                                                            1% / $0.1B                       8% / $3.9B
+   20%                     10% / $36.7B                9% / $10.8B
+                                                                                                                                            7% / $0.6B                       4% / $2.1B
+                                                                                                                     24% / $17.5B
+   10%                                                                                  16% / $5.9B
+                           16% / $57.3B                16% / $20.9B                                                                        15% / $1.3B                      16% / $7.6B
+
+     0%                                                                                 1% / $0.5B
+
+                                Underwater (DY < 6%)        Requires Add'l Equity (DY <7%)            CMBS Financeable (DY > 7%)    Agency Financeable, Potential Cash-out (DY > 8%)
+
+
+                                                                                                                                                                                       N EW MA R K   35
+Source: Trepp, Newmark Research as of 7/20/2026
+*Only CMBS and CLOs, does not include agency
+Investment Sales
+2 Q2 6
+
+
+
+
+N M R K . C OM
+Second-Quarter Sales Flat Year-over-Year, Yet Second-Highest Over the Past Four Years
+Investment sales volume reached $36.7 billion in the second quarter of 2026, up 0.9% year over year. Comparing the trailing 12 months, volume climbed to $174.0 billion, an 11.1%
+increase compared with the previous 12-month period. Current first-half sales exceeded the historical first-half average by 38.3%.
+
+
+  Investment Sales Volume; Dollars in Billions
+  $400
+
+
+  $350                                                                                                                                               +0.9%
+                                                                                                                                                    Year-over-year change in
+  $300                                                                                                                                               quarterly sales volume.
+
+
+  $250
+
+
+  $200
+                                                                                                                                                   +11.1%
+  $150                                                                                                                                          Change in trailing-12-month sales
+                                                                                                                                                  volume vs. prior 12 months.
+  $100
+                                                                                                                                        $36.7
+
+
+
+
+                                                                                                                                                   +38.3%
+   $50
+
+
+     $0
+            2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026       Change in 1H26 sales vs.
+                                                                 1Q    2Q   3Q   4Q                                                                historical first-half average.
+
+
+                                                                                                                                                                            N EW MA R K   37
+Source: Newmark Research, MSCI Real Capital Analytics
+Sun Belt Still Leads, but Mid-Atlantic/Northeast Gains Ground
+Investors continue to allocate capital in Southeast and Southwest markets, which together account for 40.9% of market share. The Mid-Atlantic/Northeast, representing 25.7% of
+investment volume, has seen its share rise 6.8% year-over-year, and it now sits 23.6% above its long-term average. This reflects growing investor appetite in stable, less supply
+burdened markets.
+
+  Sales Volume Market Share by Region; 12 Month Totals
+75.0%
+
+
+
+
+60.0%
+
+
+
+
+45.0%
+                                                                                                                                40.9%
+
+
+30.0%
+                                                                                                                                25.7%
+
+                                                                                                                                19.7%
+15.0%                                                                                                                           13.8%
+
+
+
+  0.0%
+
+
+
+
+                                                        Mid-Atlantic/Northeast   Midwest   Southeast/Southwest   West
+
+
+                                                                                                                                                                         N EW MA R K   38
+Source: Newmark Research, MSCI Real Capital Analytics
+Dallas Leads on Volume, but Palm Beach and Northern NJ See the Strongest Gains
+Dallas, Los Angeles, and Atlanta lead all markets in trailing 12-month sales volume, each topping $6.8 billion, with the Sun Belt and West Coast accounting for the bulk of the top 10.
+Year-over-year, however, Palm Beach County and Northern New Jersey posted the sharpest gains at 282.1% and 198.0%, respectively, while volume leader Dallas actually saw
+volume decline. This suggests capital is broadening, even as absolute dollars remain concentrated in a handful of metros.
+
+
+  Top 25 Markets for Trailing 12-Month Sales Volume and Year-over-Year Change; Dollars in Billions
+
+                                                        Mid-Atlantic/Northeast   Midwest   Southeast/Southwest   West   Year-over-Year Change
+
+                   $10.0                                                                                                                                                   300.0%
+
+
+
+                    $8.0
+                                                                                                                                                                           200.0%
+
+
+
+
+                                                                                                                                                                                     Year-over-Year Change
+    Sales Volume
+
+
+
+
+                    $6.0
+
+                                                                                                                                                                           100.0%
+
+                    $4.0
+
+
+                                                                                                                                                                           0.0%
+                    $2.0
+
+
+
+                    $0.0                                                                                                                                                   -100.0%
+
+
+
+
+                                                                                                                                                                          N EW MA R K                        39
+Source: Newmark Research, MSCI Real Capital Analytics
+Major Metro Share Hits a 9-Year High
+Capital is rotating toward major metros, whose share of 12-month sales volume has risen for four straight quarters to 32.7% in 2Q26. The spread versus non-major metros narrowed to
+34.7%, the tightest gap in 38 quarters, reflecting stronger relative fundamentals in supply-constrained markets.
+
+
+  Sales Volume Market Share by Market Tier; 12 Month Totals
+  90.0%
+
+
+
+  75.0%
+
+
+                                                                                                                                        67.3%
+  60.0%
+
+
+
+  45.0%
+
+                                                                                                                                          32.7%
+
+  30.0%
+
+
+
+  15.0%
+
+
+
+    0.0%
+
+
+
+                                                                               Spread                 Major Metros   Non-Major Metros
+
+
+                                                                                                                                                                      N EW MA R K     40
+Source: Newmark Research, MSCI Real Capital Analytics
+*Major metros are defined as Boston, Chicago, Los Angeles, New York, San Francisco and Washington, D.C.
+Private Equity Dry Powder Has Declined from 2022 Peak, but Still Elevated Overall
+Dry powder is 17% below its December 2022 peak, reflecting declines in dry powder at value-add and opportunistic funds. Value-add dry powder has declined back to 2021 levels,
+down 32% since peaking in 2022. It represents roughly 83% of the total decline in CRE dry powder, despite only accounting for 36% of total available funds.
+
+
+
+  Dry Powder – Closed-End Funds – North America Focus                                                                         Dry Powder by Strategy – North America Focus*
+  450                                                                                                                         160
+                                                                                                417   411
+                                                                                                                                          Opportunistic
+  400                                                                                                       388               140
+                                                                                                                  379
+                                                                                          371
+                                                                                                                                          Value-Add
+                                                                                                                        345
+  350                                                                                                                         120         Debt                                                          119
+                                                                                    318
+                                                                              300
+                                                                                                                                          Core & Core-Plus
+  300
+                                                                                                                              100
+                                                                        260                                                               Distressed
+  250                                                                                                                                                                                                    83
+                                                                 221                                                           80
+
+                                                        198
+  200                                          178                                                                             60                                                                        62
+                                                                                                                                                                                                         56
+  150                         137      142
+            117      119                                                                                                       40
+
+  100
+                                                                                                                               20
+
+    50
+                                                                                                                                0                                                                            2
+                                                                                                                                    2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 2026
+     0
+           2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+                                                                                                                                                                                               N EW MA R K       41
+Source: Newmark Research, Preqin as of 7/24/2026
+*Not shown: Fund of funds, co-investments, and secondaries strategies
+Residential Alternatives Volume Nearly Triples Since 2015; Strong Momentum in 2026
+After peaking at $87.8 billion in 2021 and pulling back sharply in 2023, residential alternatives sales volume is on pace for a third straight year of growth. Momentum accelerated
+further in the first half of 2026, pushing the sector's share of total CRE sales volume to 13.0%, its highest level since 2015 and above prior peaks in 2011 and 2020.
+
+
+         Residential Alternatives Sales Volume & Residential Alternatives as a % of All Property Types Sales Volume
+                    $100.0          Mobile/Manufactured Housing                                                                                                                              15.0%
+                                    Seniors Housing & Care
+                                    Student Housing
+                                    Subsidized
+
+
+
+
+                                                                                                                                                                                                     Residential Alternatives as a % of All Property Types
+                                    Residential Alternatives as a % of All Property Types
+                     $80.0                                                                                                                                                                   12.0%
+Sales Volume ($B)
+
+
+
+
+                     $60.0                                                                                                                                                                   9.0%
+
+
+
+
+                     $40.0                                                                                                                                                                   6.0%
+
+
+
+
+                     $20.0                                                                                                                                                                   3.0%
+
+
+
+
+                      $0.0                                                                                                                                                                   0.0%
+                             2015       2016             2017             2018              2019             2020             2021             2022             2023    2024   2025   1H26
+
+
+                                                                                                                                                                                                                                                             N EW MA R K   42
+Source: Newmark Research, MSCI Real Capital Analytics
+* Subsidized is defined as apartment complexes where any portion of it is reserved for low-income residents and a portion of the rent is paid by a government entity.
+REITs and Institutional Owners Selling Older Vintages
+While a lack of transaction volume has naturally pushed up hold periods, the effect has pushed apartment holds to be the longest since 2009. For sellers, older vintage assets can be
+offloaded after years of pulling out yield for a positive overall IRR, even if the asset sells at a discount, and the capital can be recycled. Hold periods have also been extended as
+owners run into issues at maturity for their loans and choose to extend as opposed to sell into a tough market.
+
+
+  REIT/Institutional Years Held At Time Of Sale – 12-Month Rolling Average
+    12
+
+
+
+
+    10
+
+
+
+
+      8
+
+
+
+
+      6
+
+
+
+
+      4
+
+
+
+
+      2
+
+
+
+
+      0
+          02          03           04           05           06           07           08           09           10          11            12         13      14               15       16   17        18   19   20   21   22   23   24    25     26
+                                                                                                                            Office                  Apartment                   Industrial        Retail
+
+                                                                                                                                                                                                                                          N EW MA R K   43
+Source: Real Capital Analytics, Newmark Research as of 7/14/2026
+Note: Weighted-average time held is calculated by getting the number of years between a property that transacted and its last sold date, and weighting by transaction volume
+Distress Sales Low, but Picking Up as a Share of Total
+Distress share of total volume remains well below the peaks seen during the Financial Crisis, but has been trending upward since 2022. During the last crisis, distress played an
+important part in kick-starting the new investment cycle. Roughly 24% of the increase in volume in 2010 was due to distressed sales, which were mostly multifamily. In the last 12
+months, office distress as a share of volume passed 7.2% and is now more than double 2023 levels. Paradoxically, further increases in distressed sales would be among the most
+positive indicators for a recovery in investment sales.
+
+               Distress Volume Share and CRE Volume, 12-Month Rolling                                                                             Distress Sale Share by Property Type
+                                     25%                                                                       1200                               25.0%
+
+
+                                                                          Total Volume                                                                                                   GFC Peak
+                                                                                                               1000                                                                      Since 2019Q4
+                                     20%                                                                                                          20.0%
+                                                                                                                                                                                         Last 12 Months
+                                                                          Distress Share
+Distress Share Of Total Volume (%)
+
+
+
+
+                                                                                                               800
+
+
+
+
+                                                                                                                     Total Volume ($, Billions)
+                                                                                                                                                  15.0%
+                                     15%
+
+
+                                                                                                               600
+
+                                                                                                                                                  10.0%
+                                     10%
+
+                                                                                                               400
+
+                                                                                                                                                  5.0%
+                                     5%
+                                                                                                               200
+
+
+                                                                                                                                                  0.0%
+                                                                                                                                                           Apartment      Office          Retail          Industrial    Total
+                                     0%                                                                        0
+                                           05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+
+
+                                                                                                                                                                                                                       N EW MA R K   44
+Source: RCA, Newmark Research as of 7/14/2026
+Pricing and Returns
+2 Q2 6
+
+
+
+
+N M R K . C OM
+Negative Leverage Deals Have Continued to Recede
+As base rates have increased, interest rates for CRE lending have also increased, although cap rates have been slower to react. Multifamily and industrial, where fundamentals have
+been the strongest, continue to have the tightest cap rate-to-interest rate spreads, but all property types are being squeezed. Negative leverage has also become a lot more common in
+recent years as investors rely on fundamentals to grow their NOI. However, as the market becomes more convinced that rates will remain higher-for-longer, spreads will become
+dependent on the availability of debt capital.
+
+  Share of Deals With Negative Leverage*                                                                                                                         Average Spread Between Cap Rate and Interest Rate
+ 60%                                                                                                                                                             3.0%
+
+
+
+ 50%                                                                                                                                                             2.5%
+                                                                                                                                                                                     -82bp
+
+
+ 40%                                                                                                                                                             2.0%
+
+
+                                                                                                                                                                                                                                                    -113bp
+ 30%                                                                                                                                                             1.5%
+                                                                                                                                                                                                                                  -119bp
+
+
+ 20%                                                                                                                                                             1.0%
+
+                                                                                                                                                                                                        -66bp
+
+ 10%                                                                                                                                                             0.5%
+
+
+
+   0%                                                                                                                                                            0.0%
+         02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26                                                                                         Office             Apartment             Industrial            Retail
+
+                                        Office                   Apartment                       Industrial                   Retail                                                         10-Year Average    Last 12-Months
+
+
+                                                                                                                                                                                                                                            N EW MA R K      46
+Source: RCA, Newmark Research as of 7/14/2026
+*Negative leverage here defined as deals where transaction cap rate is lower than interest rate, for deals where both cap rate and interest rate are available
+Public Markets Rebound Sharply While Private Indexes Hold Steady
+Private market indexes remain stable year-over-year (RCA -1.7%, Green Street +1.7%), while public apartment REITs are up 2.2% YoY but surged 17.1% quarter-over-quarter. Since
+public markets typically reprice ahead of private valuations, this rebound may signal private apartment values are nearing a bottom.
+
+
+  Property Indexes
+                                  300.0                                                                                                                         3,000.0
+
+
+
+                                  250.0                                                                                                                         2,500.0
+    RCA/GS Apartment CPPI Index
+
+
+
+
+                                                                                                                                                                          FTSE NAREIT Apartment Index
+                                  200.0                                                                                                                         2,000.0
+
+
+
+                                  150.0                                                                                                                         1,500.0
+
+
+
+                                  100.0                                                                                                                         1,000.0
+
+
+
+                                   50.0                                                                                                                         500.0
+
+
+
+                                    0.0                                                                                                                         0.0
+                                          1Q05
+                                          3Q05
+                                          1Q06
+                                          3Q06
+                                          1Q07
+                                          3Q07
+                                          1Q08
+                                          3Q08
+                                          1Q09
+                                          3Q09
+                                          1Q10
+                                          3Q10
+                                          1Q11
+                                          3Q11
+                                          1Q12
+                                          3Q12
+                                          1Q13
+                                          3Q13
+                                          1Q14
+                                          3Q14
+                                          1Q15
+                                          3Q15
+                                          1Q16
+                                          3Q16
+                                          1Q17
+                                          3Q17
+                                          1Q18
+                                          3Q18
+                                          1Q19
+                                          3Q19
+                                          1Q20
+                                          3Q20
+                                          1Q21
+                                          3Q21
+                                          1Q22
+                                          3Q22
+                                          1Q23
+                                          3Q23
+                                          1Q24
+                                          3Q24
+                                          1Q25
+                                          3Q25
+                                          1Q26
+                                          RCA Apartment CPPI Index                     Green Street Apartment CPPI Index   FTSE NAREIT Equity Apartment Index
+
+
+                                                                                                                                                                                                        N EW MA R K   47
+Source: Newmark Research, MSCI Real Capital Analytics, Green Street Advisors, NAREIT
+REIT-Implied Yields Snap Back Sharply, While Transactional Cap Rates Increase Steadily
+REIT implied cap rates compressed sharply in 2Q26 — down 70 basis points quarter-over-quarter, the largest move of the three series, while RCA's transaction-based average
+continued drifting modestly higher and NCREIF's appraisal-based figure edged lower.
+
+
+  Cap Rates
+  10.0%
+
+
+   9.0%
+
+
+   8.0%
+
+
+   7.0%
+
+
+   6.0%
+
+
+   5.0%
+
+
+   4.0%
+
+
+   3.0%
+
+
+   2.0%
+             1Q05
+                    3Q05
+                           1Q06
+                                  3Q06
+                                         1Q07
+                                                3Q07
+                                                       1Q08
+                                                              3Q08
+                                                                     1Q09
+                                                                            3Q09
+                                                                                   1Q10
+                                                                                          3Q10
+                                                                                                 1Q11
+                                                                                                        3Q11
+                                                                                                               1Q12
+                                                                                                                      3Q12
+                                                                                                                             1Q13
+                                                                                                                                    3Q13
+                                                                                                                                           1Q14
+                                                                                                                                                  3Q14
+                                                                                                                                                         1Q15
+                                                                                                                                                                3Q15
+                                                                                                                                                                       1Q16
+                                                                                                                                                                              3Q16
+                                                                                                                                                                                     1Q17
+                                                                                                                                                                                            3Q17
+                                                                                                                                                                                                   1Q18
+                                                                                                                                                                                                          3Q18
+                                                                                                                                                                                                                 1Q19
+                                                                                                                                                                                                                        3Q19
+                                                                                                                                                                                                                               1Q20
+                                                                                                                                                                                                                                      3Q20
+                                                                                                                                                                                                                                             1Q21
+                                                                                                                                                                                                                                                    3Q21
+                                                                                                                                                                                                                                                           1Q22
+                                                                                                                                                                                                                                                                  3Q22
+                                                                                                                                                                                                                                                                         1Q23
+                                                                                                                                                                                                                                                                                3Q23
+                                                                                                                                                                                                                                                                                       1Q24
+                                                                                                                                                                                                                                                                                              3Q24
+                                                                                                                                                                                                                                                                                                     1Q25
+                                                                                                                                                                                                                                                                                                            3Q25
+                                                                                                                                                                                                                                                                                                                   1Q26
+                                         RCA Average Cap Rate                                                    NCREIF Transaction Value Weighted Cap Rates                                                                                 REIT Implied Cap Rates
+
+
+                                                                                                                                                                                                                                                                                                                          N EW MA R K   48
+Source: Newmark Research, MSCI Real Capital Analytics, NCREIF, Green Street Advisors
+Multifamily Performance Drags vs. All-Property Index
+Through the second quarter of 2026, annual total returns for multifamily properties were 4.59%, underperforming the NCREIF All Property Index, which registered 4.99% total
+returns, exceeding multifamily returns for just the second time since 2020. Apartments had outperformed the all-property index in most years since 2020, underscoring the sector’s
+sustained strong performance.
+
+  Calendar Year Total Returns
+  25.0%
+
+
+
+  20.0%
+
+
+
+  15.0%
+
+
+
+  10.0%
+
+
+
+    5.0%
+
+
+
+    0.0%
+
+
+
+   -5.0%
+
+
+
+  -10.0%
+                2011        2012   2013   2014   2015    2016    2017     2018   2019     2020     2021   2022   2023   2024   2025   *2026
+
+                                                        Apartment Index    NCREIF All Property Index
+
+
+                                                                                                                                                                        N EW MA R K   49
+Source: Newmark Research, NCREIF
+*2026 is annualized
+Mike Wolfson                                                                                         Christopher Boutsikaris
+Managing Director                                                                                    Senior Research Analyst
+Multifamily Capital Markets Research                                                                 Multifamily Capital Markets Research
+mike.wolfson@nmrk.com                                                                                chris.boutsikaris@nmrk.com
+
+
+
+David Bitner                                                                                         Joe Biasi
+Executive Managing Director                                                                          Managing Director
+National Research                                                                                    Commercial Capital Markets Research
+david.bitner@nmrk.com                                                                                joseph.biasi@nmrk.com
+
+
+
+
+Headquarters
+125 Park Ave.
+New York, NY 10017
+t 212-372-2000
+
+
+
+
+                                                                                                                                                                                                                                                            nmrk.com/insights
+Newmark has implemented a proprietary database and our tracking methodology has been revised. With this expansion and refinem ent in our data, there may be adjustments in historical statistics including availability, asking rents, absorption and effective rents. Newmark Research Reports are available at nmrk.com/insights.
+Newmark has implemented a proprietary database and our tracking methodology has been revised. With this expansion and refinement in our data, there may be adjustments in historical statistics including availability, asking rents, absorption and effective rents. Newmark Research Reports are available at nmrk.com/insights
+                                                                                                                                                                                                                                                                                                                nmrk.com/insights
+All information contained in this publication (other than that published by Newmark) is derived from third party sources. Ne wmark (i) has not independently verified the accuracy or completeness of any such information, (ii) does not make any warranties or r epresentations, express or implied, concerning the same and (iii) does not
+ All information contained in this publication (other than that published by Newmark) is derived from third party sources. Ne wmark (i) has not independently verified the accuracy or completeness of any such information, (ii) does not make any warranties or r epresentations, express or implied, concerning the same and (iii) does not assume any liability or responsibility for errors, mistakes or inaccuracies
+assume     any
+ of any such      liability or
+              information.      responsibility
+                            Further,               for errors,
+                                      the information    set forthmistakes       or inaccuracies
+                                                                   in this publication              of any
+                                                                                       (i) may include       such
+                                                                                                       certain      information.
+                                                                                                                forward-looking      Further,and
+                                                                                                                                 statements,    thethere
+                                                                                                                                                     information
+                                                                                                                                                           can be noset   forth inthat
+                                                                                                                                                                     guarantee      this  publication
+                                                                                                                                                                                       they will come to (i) may
+                                                                                                                                                                                                          pass, (ii)include    certain
+                                                                                                                                                                                                                     is not intended  to,forward-looking
+                                                                                                                                                                                                                                          nor does it contain statements,       and there
+                                                                                                                                                                                                                                                               sufficient information,  to makecanany
+                                                                                                                                                                                                                                                                                                   berecommendations
+                                                                                                                                                                                                                                                                                                       no guarantee that        they will
+                                                                                                                                                                                                                                                                                                                          or decisions      come to
+                                                                                                                                                                                                                                                                                                                                        in relation     pass,
+                                                                                                                                                                                                                                                                                                                                                    to the     (ii) is not
+                                                                                                                                                                                                                                                                                                                                                           information  setintende      d to,and
+                                                                                                                                                                                                                                                                                                                                                                             forth therein     nor
+                                                                                                                                                                                                                                                                                                                                                                                                 (iii)does
+                                                                                                                                                                                                                                                                                                                                                                                                       does it
+                                                                                                                                                                                                                                                                                                                                                                                                            notcontain  sufficient
+                                                                                                                                                                                                                                                                                                                                                                                                                constitute          information,
+                                                                                                                                                                                                                                                                                                                                                                                                                           or form part              to make
+                                                                                                                                                                                                                                                                                                                                                                                                                                         of, and should not be
+any    recommendations
+ construed                      orordecisions
+            as, an offer to sell,                 in of
+                                     a solicitation   relation
+                                                        any offertotothe
+                                                                      buy,information     set forth therein
+                                                                            or any recommendation              andto,
+                                                                                                     with respect   (iii)
+                                                                                                                       anydoes  not constitute
+                                                                                                                            securities.            or form
+                                                                                                                                        Any decisions   madepart    of, andshould
+                                                                                                                                                               by recipient   should     not beonconstrued
+                                                                                                                                                                                    be based                    as, independent
+                                                                                                                                                                                                   recipient’s own    an offer to verification
+                                                                                                                                                                                                                                    sell, or a solicitation    of any
+                                                                                                                                                                                                                                                 of any information  set offer  tothis
+                                                                                                                                                                                                                                                                         forth in   buy,  or any recommendation
+                                                                                                                                                                                                                                                                                       publication                        with
+                                                                                                                                                                                                                                                                                                    and in consultation with     respectown
+                                                                                                                                                                                                                                                                                                                              recipient’s  to,professional
+                                                                                                                                                                                                                                                                                                                                                any securities.      AnyAny
+                                                                                                                                                                                                                                                                                                                                                              advisors.   decisions
+                                                                                                                                                                                                                                                                                                                                                                              recipient ofmade    by recipient
+                                                                                                                                                                                                                                                                                                                                                                                            this publication   may should   be the
+                                                                                                                                                                                                                                                                                                                                                                                                                   not, without  based
+                                                                                                                                                                                                                                                                                                                                                                                                                                    prioron    recipient’s
+                                                                                                                                                                                                                                                                                                                                                                                                                                           written approval own
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            of
+independent        verification
+ Newmark, distribute,             of any
+                         disseminate,      information
+                                        publish,  transmit, set
+                                                             copy,forth   in thisupload,
+                                                                     broadcast,    publication   andorininconsultation
+                                                                                          download,        any other way with   recipient’s
+                                                                                                                           reproduce           own profession
+                                                                                                                                       this publication             alinformation
+                                                                                                                                                        or any of the  advisors. itAny    recipient
+                                                                                                                                                                                     contains          ofthird
+                                                                                                                                                                                                with any  this party.
+                                                                                                                                                                                                                publication      may not,
+                                                                                                                                                                                                                       This publication      without
+                                                                                                                                                                                                                                         is for        the prior
+                                                                                                                                                                                                                                                informational      written
+                                                                                                                                                                                                                                                              purposes   onlyapproval
+                                                                                                                                                                                                                                                                               and none of of Newmark,
+                                                                                                                                                                                                                                                                                              the content isdistribute,  disseminate,
+                                                                                                                                                                                                                                                                                                             intended to advise             publish,
+                                                                                                                                                                                                                                                                                                                                  or otherwise          transmit,
+                                                                                                                                                                                                                                                                                                                                                recommend           copy,
+                                                                                                                                                                                                                                                                                                                                                              a specific    broadcast,
+                                                                                                                                                                                                                                                                                                                                                                         strategy.  It is notupload,     download,
+                                                                                                                                                                                                                                                                                                                                                                                              to be relied            orway
+                                                                                                                                                                                                                                                                                                                                                                                                            upon in any  in any    othermarket
+                                                                                                                                                                                                                                                                                                                                                                                                                              to predict   way reproduce
+                                                                                                                                                                                                                                                                                                                                                                                                                                                  movement, this
+ investment in or
+publication     securities,  transactions,
+                    any of the              investment
+                                  information             strategies
+                                                   it contains     withor any
+                                                                           any other
+                                                                                thirdmatter.
+                                                                                      party.IfThis
+                                                                                               you received  this publication
+                                                                                                    publication               by mistake, please
+                                                                                                                   is for informational             reply only
+                                                                                                                                             purposes     to thisand
+                                                                                                                                                                 message
+                                                                                                                                                                      noneandof follow  with its deletion,
+                                                                                                                                                                                 the content               so thattoNewmark
+                                                                                                                                                                                                  is intended         advise or canotherwise
+                                                                                                                                                                                                                                    ensure such    a mistake does
+                                                                                                                                                                                                                                                 recommend       a not  occur in
+                                                                                                                                                                                                                                                                    specific      the fu ture.
+                                                                                                                                                                                                                                                                                strategy.   It is not to be relied upon in any way to predict market movement, investment in securities, transactions, investment
+strategies or any other matter. If you received this publication by mistake, please reply to this message and follow with its deletion, so that Newmark can ensure such a mistake does not occur in the future.
+

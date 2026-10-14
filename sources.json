@@ -31,5 +31,16 @@
     "sha256": "a494b55bf7881e2a2ca0c718d66d21583d558acb8389de6193df9de338a23d87",
     "capture_sha256": "65c2e0c92248a7abcb434b0aa56916876b39136abf405017338b5e3ff85110fb",
     "added_on": "2026-10-14"
+  },
+  {
+    "id": "newmark-2q26-us-multifamily-capital-markets-conditions-trends-short",
+    "title": "Newmark 2Q26 U.S. Multifamily Capital Markets Conditions & Trends (Short)",
+    "url": "",
+    "original": "sources/newmark-2q26-us-multifamily-capital-markets-conditions-trends-short.pdf",
+    "capture": "captures/newmark-2q26-us-multifamily-capital-markets-conditions-trends-short.txt",
+    "extractor": "pdftotext -layout",
+    "sha256": "01165820066e83b221a7875c2dbda1ad261d886a294199fa34c6896f95e53afe",
+    "capture_sha256": "a5050e5b30fd290bce7e40024a51e2489b1916200170b0e789e7b1467165078b",
+    "added_on": "2026-10-14"
   }
 ]

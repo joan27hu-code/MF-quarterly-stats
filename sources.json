@@ -9,5 +9,16 @@
     "sha256": "6022ab02c771eb100d4255487997f8284acfc8bcaa64e5d53fd737a119ff7274",
     "capture_sha256": "c4074112ebe76071a89acf1fe5c921a0f1028e7bdca76dd2b2c49d710a4fca85",
     "added_on": "2026-10-14"
+  },
+  {
+    "id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "title": "Colliers Capital Markets US Multifamily Report Q2 2026",
+    "url": "",
+    "original": "sources/colliers-capital-markets-us-multifamily-q2-2026.pdf",
+    "capture": "captures/colliers-capital-markets-us-multifamily-q2-2026.txt",
+    "extractor": "pdftotext -layout",
+    "sha256": "759804718248cde24ec4b2d304b82214443a903f26f17b17bdcbec10ca4f4d39",
+    "capture_sha256": "0c22498fda6051e62111c6d8ba8429254d32efdedc657f5e0ad01ee4f3f4c530",
+    "added_on": "2026-10-14"
   }
 ]

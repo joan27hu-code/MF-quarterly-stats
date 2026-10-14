@@ -20,5 +20,16 @@
     "sha256": "759804718248cde24ec4b2d304b82214443a903f26f17b17bdcbec10ca4f4d39",
     "capture_sha256": "0c22498fda6051e62111c6d8ba8429254d32efdedc657f5e0ad01ee4f3f4c530",
     "added_on": "2026-10-14"
+  },
+  {
+    "id": "san-jose-multifamily-market-report-mid-year-2026",
+    "title": "San Jose Multifamily Market Report, Mid-Year 2026",
+    "url": "",
+    "original": "sources/san-jose-multifamily-market-report-mid-year-2026.pdf",
+    "capture": "captures/san-jose-multifamily-market-report-mid-year-2026.txt",
+    "extractor": "pdftotext -layout",
+    "sha256": "a494b55bf7881e2a2ca0c718d66d21583d558acb8389de6193df9de338a23d87",
+    "capture_sha256": "65c2e0c92248a7abcb434b0aa56916876b39136abf405017338b5e3ff85110fb",
+    "added_on": "2026-10-14"
   }
 ]

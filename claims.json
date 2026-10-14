@@ -70,5 +70,149 @@
     "unit": "percent",
     "period": "Q2 2026",
     "quote": "Oakland/Berkeley                                                   101,739                 108           0.1%            798           4.0          -70        -180         2,950        2,854           96          4.7"
+  },
+  {
+    "claim_id": "c9",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, San Francisco, occupancy rate",
+    "value": "97.6",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "San Francisco                         255,033         97.6%         0.7%            $3,938            10.6%          $4.83           0          1,228        3,573"
+  },
+  {
+    "claim_id": "c10",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, San Francisco, average monthly effective rent",
+    "value": "3,938",
+    "unit": "dollars per unit per month",
+    "period": "Q2 2026",
+    "quote": "San Francisco                         255,033         97.6%         0.7%            $3,938            10.6%          $4.83           0          1,228        3,573"
+  },
+  {
+    "claim_id": "c11",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, San Francisco, net absorption (demand, units absorbed in the quarter)",
+    "value": "1,228",
+    "unit": "units",
+    "period": "Q2 2026",
+    "quote": "San Francisco                         255,033         97.6%         0.7%            $3,938            10.6%          $4.83           0          1,228        3,573"
+  },
+  {
+    "claim_id": "c12",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, San Francisco, units under construction",
+    "value": "3,573",
+    "unit": "units",
+    "period": "Q2 2026",
+    "quote": "San Francisco                         255,033         97.6%         0.7%            $3,938            10.6%          $4.83           0          1,228        3,573"
+  },
+  {
+    "claim_id": "c13",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, San Jose, occupancy rate",
+    "value": "97.4",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "San Jose                              190,290         97.4%         0.7%            $3,538            6.1%           $4.01           0          1,300        3,347"
+  },
+  {
+    "claim_id": "c14",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, San Jose, average monthly effective rent",
+    "value": "3,538",
+    "unit": "dollars per unit per month",
+    "period": "Q2 2026",
+    "quote": "San Jose                              190,290         97.4%         0.7%            $3,538            6.1%           $4.01           0          1,300        3,347"
+  },
+  {
+    "claim_id": "c15",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, San Jose, net absorption (demand, units absorbed in the quarter)",
+    "value": "1,300",
+    "unit": "units",
+    "period": "Q2 2026",
+    "quote": "San Jose                              190,290         97.4%         0.7%            $3,538            6.1%           $4.01           0          1,300        3,347"
+  },
+  {
+    "claim_id": "c16",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, San Jose, units under construction",
+    "value": "3,347",
+    "unit": "units",
+    "period": "Q2 2026",
+    "quote": "San Jose                              190,290         97.4%         0.7%            $3,538            6.1%           $4.01           0          1,300        3,347"
+  },
+  {
+    "claim_id": "c17",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, Oakland, occupancy rate",
+    "value": "96.6",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Oakland                                224,611         96.6%         0.8%            $2,762            3.4%           $3.28          196         1,207        1,115"
+  },
+  {
+    "claim_id": "c18",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, Oakland, average monthly effective rent",
+    "value": "2,762",
+    "unit": "dollars per unit per month",
+    "period": "Q2 2026",
+    "quote": "Oakland                                224,611         96.6%         0.8%            $2,762            3.4%           $3.28          196         1,207        1,115"
+  },
+  {
+    "claim_id": "c19",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, Oakland, net absorption (demand, units absorbed in the quarter)",
+    "value": "1,207",
+    "unit": "units",
+    "period": "Q2 2026",
+    "quote": "Oakland                                224,611         96.6%         0.8%            $2,762            3.4%           $3.28          196         1,207        1,115"
+  },
+  {
+    "claim_id": "c20",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, Oakland, units under construction",
+    "value": "1,115",
+    "unit": "units",
+    "period": "Q2 2026",
+    "quote": "Oakland                                224,611         96.6%         0.8%            $2,762            3.4%           $3.28          196         1,207        1,115"
+  },
+  {
+    "claim_id": "c21",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, Sacramento, occupancy rate",
+    "value": "95.8",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Sacramento                            163,254         95.8%         -0.2%           $2,017            -1.1%          $2.29          174         591          1,861"
+  },
+  {
+    "claim_id": "c22",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, Sacramento, average monthly effective rent",
+    "value": "2,017",
+    "unit": "dollars per unit per month",
+    "period": "Q2 2026",
+    "quote": "Sacramento                            163,254         95.8%         -0.2%           $2,017            -1.1%          $2.29          174         591          1,861"
+  },
+  {
+    "claim_id": "c23",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, Sacramento, net absorption (demand, units absorbed in the quarter)",
+    "value": "591",
+    "unit": "units",
+    "period": "Q2 2026",
+    "quote": "Sacramento                            163,254         95.8%         -0.2%           $2,017            -1.1%          $2.29          174         591          1,861"
+  },
+  {
+    "claim_id": "c24",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, Sacramento, units under construction",
+    "value": "1,861",
+    "unit": "units",
+    "period": "Q2 2026",
+    "quote": "Sacramento                            163,254         95.8%         -0.2%           $2,017            -1.1%          $2.29          174         591          1,861"
   }
 ]

@@ -1,7 +1,7 @@
 # Topic
 
 Quarterly multifamily market reports from large institutional brokerage firms
-(JLL, CBRE, Cushman & Wakefield and Berkadia), consolidated into one set of
+(JLL, CBRE, Cushman & Wakefield, Berkadia and Colliers), consolidated into one set of
 market stats for my Northern California markets:
 
 - San Jose

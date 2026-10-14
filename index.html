@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Multifamily Market Claims</title>
+<style>
+:root {
+  --bg: #f7f7f5; --card: #ffffff; --ink: #1d1f21; --muted: #5f6368; --line: #dfe1e5;
+  --accent: #0b6e4f; --mark: #fff1a8; --held: #b3261e; --held-bg: #fdf0ef; --code: #f1f3f4;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15171a; --card: #1e2125; --ink: #e8eaed; --muted: #9aa0a6; --line: #33373c;
+    --accent: #5fd3a6; --mark: #6b5a00; --held: #f28b82; --held-bg: #2b1c1b; --code: #26292e;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #15171a; --card: #1e2125; --ink: #e8eaed; --muted: #9aa0a6; --line: #33373c;
+  --accent: #5fd3a6; --mark: #6b5a00; --held: #f28b82; --held-bg: #2b1c1b; --code: #26292e;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink);
+  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 1100px; margin: 0 auto; padding: 32px 16px 64px; }
+header h1 { margin: 0 0 4px; font-size: 26px; }
+header p { margin: 4px 0; color: var(--muted); }
+.counts { display: flex; gap: 12px; margin: 16px 0 8px; flex-wrap: wrap; }
+.count { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 8px 14px; }
+.count b { font-size: 20px; margin-right: 6px; }
+.count.held b { color: var(--held); }
+.count.ok b { color: var(--accent); }
+section { margin-top: 36px; }
+h2 { font-size: 19px; margin: 0 0 4px; }
+.qn { color: var(--accent); margin-right: 4px; }
+.qtext { color: var(--muted); margin: 0 0 14px; max-width: 75ch; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+.claim { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; min-width: 0; }
+.claim.held { border-color: var(--held); background: var(--held-bg); }
+.top { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.value { font-size: 26px; font-weight: 650; font-variant-numeric: tabular-nums; }
+.unit { display: block; font-size: 13px; font-weight: 400; color: var(--muted); }
+.meta { color: var(--muted); font-size: 13px; white-space: nowrap; }
+.id { font-family: ui-monospace, Menlo, monospace; }
+h3 { font-size: 14px; font-weight: 600; margin: 6px 0 10px; }
+.quote { background: var(--code); border-radius: 6px; padding: 8px 10px; margin: 0 0 8px;
+  font: 12px/1.5 ui-monospace, Menlo, monospace; white-space: normal; overflow-wrap: anywhere; word-spacing: 0.4em; }
+mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1px; }
+.source { font-size: 13px; color: var(--muted); margin: 0; }
+.source a { color: var(--accent); }
+.file { display: block; font-family: ui-monospace, Menlo, monospace; font-size: 12px; }
+.notes { font-size: 13px; color: var(--muted); margin: 8px 0 0; padding-left: 18px; }
+.reason { color: var(--held); font-size: 14px; margin: 0 0 8px; }
+.empty { color: var(--muted); font-style: italic; }
+footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
+footer code { background: var(--code); padding: 0 4px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<main>
+<header>
+  <h1>Northern California multifamily market claims</h1>
+  <p>Each number below is quoted from a saved source and checked by <code>verify.py</code>.
+     Verified means the source is unchanged, the quote is in it word for word, and the number is in the quote.
+     It doesn't mean the number is the right fact, so check the notes under each claim.
+     Quotes are shown with extra spaces condensed; the saved text keeps them.</p>
+  <div class="counts">
+    <div class="count ok"><b>8</b>verified</div>
+    <div class="count held"><b>0</b>held</div>
+    <div class="count"><b>1</b>source</div>
+  </div>
+</header>
+
+  <section>
+    <h2><span class="qn">Q1</span> Vacancy</h2>
+    <p class="qtext">What vacancy rate does each firm report for each of my markets each quarter? Does the report call it total, stabilized, or occupancy (100 minus vacancy)?</p>
+    <div class="grid">
+    <article class="claim">
+      <div class="top">
+        <div class="value">2.4<span class="unit">percent</span></div>
+        <div class="meta"><span class="id">c1</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, San Francisco / SF Peninsula, stabilized vacancy rate (current quarter)</h3>
+      
+      <p class="quote">San Francisco / SF Peninsula                                       264,311                 228           0.1%           1,863          <mark>2.4</mark>         -40          -60         3,936        3,744          192          11.4</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">2.6<span class="unit">percent</span></div>
+        <div class="meta"><span class="id">c3</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, Silicon Valley, stabilized vacancy rate (current quarter)</h3>
+      
+      <p class="quote">Silicon Valley                                                     181,989                 299           0.2%           1,565          <mark>2.6</mark>         -60          -80         3,516        3,364          152          6.4</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">4.0<span class="unit">percent</span></div>
+        <div class="meta"><span class="id">c7</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, Livermore/Pleasanton, stabilized vacancy rate (current quarter)</h3>
+      
+      <p class="quote">Livermore/Pleasanton                                                 9,111                  0            0.0%             12           <mark>4.0</mark>          -10         -30         2,874        2,763           111          3.1</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">4.0<span class="unit">percent</span></div>
+        <div class="meta"><span class="id">c8</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, Oakland/Berkeley, stabilized vacancy rate (current quarter)</h3>
+      
+      <p class="quote">Oakland/Berkeley                                                   101,739                 108           0.1%            798           <mark>4.0</mark>          -70        -180         2,950        2,854           96          4.7</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article></div>
+  </section>
+  <section>
+    <h2><span class="qn">Q2</span> Asking rent</h2>
+    <p class="qtext">What average market asking rent does each firm report for each market each quarter? Is it per unit per month or per square foot?</p>
+    <div class="grid">
+    <article class="claim">
+      <div class="top">
+        <div class="value">3,936<span class="unit">dollars per unit per month</span></div>
+        <div class="meta"><span class="id">c2</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, San Francisco / SF Peninsula, rent per unit (current quarter)</h3>
+      
+      <p class="quote">San Francisco / SF Peninsula                                       264,311                 228           0.1%           1,863          2.4         -40          -60         <mark>3,936</mark>        3,744          192          11.4</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li><li>The source doesn&#x27;t say whether this rent is asking or effective. Listed under asking rent until confirmed.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">3,930<span class="unit">dollars per unit per month</span></div>
+        <div class="meta"><span class="id">c5</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, Mountain View/Palo Alto/Los Altos, rent per unit (current quarter)</h3>
+      
+      <p class="quote">Mountain View/Palo Alto/Los Altos                                   33,619                  85           0.3%            391           2.5         -90         -200         <mark>3,930</mark>        3,797          133           7.3</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li><li>The source doesn&#x27;t say whether this rent is asking or effective. Listed under asking rent until confirmed.</li></ul>
+    </article></div>
+  </section>
+  <section>
+    <h2><span class="qn">Q3</span> Effective rent</h2>
+    <p class="qtext">What average effective rent (after concessions) does each firm report for each market each quarter? Where reported, how large are the concessions?</p>
+    <div class="grid"><p class="empty">No verified claims answer this yet.</p></div>
+  </section>
+  <section>
+    <h2><span class="qn">Q4</span> Rent growth</h2>
+    <p class="qtext">How much did asking and effective rents change from the prior quarter and from the same quarter last year, by market and firm?</p>
+    <div class="grid">
+    <article class="claim">
+      <div class="top">
+        <div class="value">6.4<span class="unit">percent</span></div>
+        <div class="meta"><span class="id">c4</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, Silicon Valley, rent per unit year-over-year change</h3>
+      
+      <p class="quote">Silicon Valley                                                     181,989                 299           0.2%           1,565          2.6         -60          -80         3,516        3,364          152          <mark>6.4</mark></p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article></div>
+  </section>
+  <section>
+    <h2><span class="qn">Q5</span> Absorption</h2>
+    <p class="qtext">How many units of net absorption did each market record in the quarter? Is the figure for the quarter alone, year to date, or trailing 12 months?</p>
+    <div class="grid">
+    <article class="claim">
+      <div class="top">
+        <div class="value">391<span class="unit">units</span></div>
+        <div class="meta"><span class="id">c6</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, Mountain View/Palo Alto/Los Altos, net absorption (current quarter)</h3>
+      
+      <p class="quote">Mountain View/Palo Alto/Los Altos                                   33,619                  85           0.3%            <mark>391</mark>           2.5         -90         -200         3,930        3,797          133           7.3</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article></div>
+  </section>
+  <section>
+    <h2><span class="qn">Q6</span> Supply</h2>
+    <p class="qtext">How many units were delivered in the quarter, and how many are under construction, by market?</p>
+    <div class="grid"><p class="empty">No verified claims answer this yet.</p></div>
+  </section>
+  <section>
+    <h2><span class="qn">Q7</span> Comparison</h2>
+    <p class="qtext">Where two or more firms report the same market and quarter, how far apart are their figures? Which differences come from definitions (area boundaries, stabilized vs. total, asking vs. effective) rather than from the market?</p>
+    <div class="grid"><p class="empty">No verified claims answer this yet.</p></div>
+  </section>
+  <section>
+    <h2>Held claims</h2>
+    <p class="qtext">These failed the checker and aren't counted above.</p>
+    <div class="grid"><p class="empty">No held claims. Every claim passed the checker.</p></div>
+  </section>
+<footer>
+  <p>Sources</p>
+  <ul><li><strong>Bay Area Multifamily Figures Q2 2026</strong>: <code>sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</code>, text by pdftotext -layout, added 2026-10-14, fingerprint <code>6022ab02c771eb10…</code></li></ul>
+  <p>Built by <code>python3 build_index.py</code> from claims.json and REPORT.md. Don't edit by hand.</p>
+</footer>
+</main>
+</body>
+</html>

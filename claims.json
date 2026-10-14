@@ -214,5 +214,248 @@
     "unit": "units",
     "period": "Q2 2026",
     "quote": "Sacramento                            163,254         95.8%         -0.2%           $2,017            -1.1%          $2.29          174         591          1,861"
+  },
+  {
+    "claim_id": "c25",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, San Francisco / SF Peninsula, rent per unit year-over-year change",
+    "value": "11.4",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "San Francisco / SF Peninsula                                       264,311                 228           0.1%           1,863          2.4         -40          -60         3,936        3,744          192          11.4"
+  },
+  {
+    "claim_id": "c26",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, Oakland/East Bay, stabilized vacancy rate (current quarter)",
+    "value": "3.5",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Oakland/East Bay                                                   231,575                 357           0.2%           1,676          3.5         -50          -80         2,762        2,676          86           3.3"
+  },
+  {
+    "claim_id": "c27",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, Oakland/East Bay, rent per unit year-over-year change",
+    "value": "3.3",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Oakland/East Bay                                                   231,575                 357           0.2%           1,676          3.5         -50          -80         2,762        2,676          86           3.3"
+  },
+  {
+    "claim_id": "c28",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, Mountain View/Palo Alto/Los Altos, stabilized vacancy rate (current quarter)",
+    "value": "2.5",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Mountain View/Palo Alto/Los Altos                                   33,619                  85           0.3%            391           2.5         -90         -200         3,930        3,797          133           7.3"
+  },
+  {
+    "claim_id": "c29",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, Mountain View/Palo Alto/Los Altos, rent per unit year-over-year change",
+    "value": "7.3",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Mountain View/Palo Alto/Los Altos                                   33,619                  85           0.3%            391           2.5         -90         -200         3,930        3,797          133           7.3"
+  },
+  {
+    "claim_id": "c30",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, Central San Jose, stabilized vacancy rate (current quarter)",
+    "value": "3.0",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Central San Jose                                                    27,058                  0            0.0%            187           3.0          -70         -50         3,283        3,167          116          5.0"
+  },
+  {
+    "claim_id": "c31",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, Central San Jose, rent per unit year-over-year change",
+    "value": "5.0",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Central San Jose                                                    27,058                  0            0.0%            187           3.0          -70         -50         3,283        3,167          116          5.0"
+  },
+  {
+    "claim_id": "c32",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, East San Jose, stabilized vacancy rate (current quarter)",
+    "value": "3.1",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "East San Jose                                                       12,712                  0            0.0%             77           3.1         -60           0          2,959        2,814          145          4.0"
+  },
+  {
+    "claim_id": "c33",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, East San Jose, rent per unit year-over-year change",
+    "value": "4.0",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "East San Jose                                                       12,712                  0            0.0%             77           3.1         -60           0          2,959        2,814          145          4.0"
+  },
+  {
+    "claim_id": "c34",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, North San Jose/Milpitas, stabilized vacancy rate (current quarter)",
+    "value": "2.0",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "North San Jose/Milpitas                                             14,671                 214           1.5%            292           2.0         -60          -70         3,579        3,388          191           7.2"
+  },
+  {
+    "claim_id": "c35",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, North San Jose/Milpitas, rent per unit year-over-year change",
+    "value": "7.2",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "North San Jose/Milpitas                                             14,671                 214           1.5%            292           2.0         -60          -70         3,579        3,388          191           7.2"
+  },
+  {
+    "claim_id": "c36",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, South San Jose, stabilized vacancy rate (current quarter)",
+    "value": "3.0",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "South San Jose                                                      21,838                  0            0.0%            160           3.0          -70         -80         3,060        2,935          125          6.2"
+  },
+  {
+    "claim_id": "c37",
+    "source_id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "subject": "CBRE, South San Jose, rent per unit year-over-year change",
+    "value": "6.2",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "South San Jose                                                      21,838                  0            0.0%            160           3.0          -70         -80         3,060        2,935          125          6.2"
+  },
+  {
+    "claim_id": "c38",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, San Francisco, year-over-year effective rent change",
+    "value": "10.6",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "San Francisco                         255,033         97.6%         0.7%            $3,938            10.6%          $4.83           0          1,228        3,573"
+  },
+  {
+    "claim_id": "c39",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, San Jose, year-over-year effective rent change",
+    "value": "6.1",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "San Jose                              190,290         97.4%         0.7%            $3,538            6.1%           $4.01           0          1,300        3,347"
+  },
+  {
+    "claim_id": "c40",
+    "source_id": "colliers-capital-markets-us-multifamily-q2-2026",
+    "subject": "Colliers, Oakland, year-over-year effective rent change",
+    "value": "3.4",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Oakland                                224,611         96.6%         0.8%            $2,762            3.4%           $3.28          196         1,207        1,115"
+  },
+  {
+    "claim_id": "c41",
+    "source_id": "san-jose-multifamily-market-report-mid-year-2026",
+    "subject": "Berkadia, Mountain View/Palo Alto/Los Altos, stabilized occupancy rate",
+    "value": "97.5",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Mountain View/Palo Alto/Los Altos       97.5%                                    120           $3,930           5.7%"
+  },
+  {
+    "claim_id": "c42",
+    "source_id": "san-jose-multifamily-market-report-mid-year-2026",
+    "subject": "Berkadia, Mountain View/Palo Alto/Los Altos, year-over-year effective rent change",
+    "value": "5.7",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Mountain View/Palo Alto/Los Altos       97.5%                                    120           $3,930           5.7%"
+  },
+  {
+    "claim_id": "c43",
+    "source_id": "san-jose-multifamily-market-report-mid-year-2026",
+    "subject": "Berkadia, Central San Jose, stabilized occupancy rate",
+    "value": "97.0",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Central San Jose                        97.0%                                     50           $3,276           5.9%"
+  },
+  {
+    "claim_id": "c44",
+    "source_id": "san-jose-multifamily-market-report-mid-year-2026",
+    "subject": "Berkadia, Central San Jose, year-over-year effective rent change",
+    "value": "5.9",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "Central San Jose                        97.0%                                     50           $3,276           5.9%"
+  },
+  {
+    "claim_id": "c45",
+    "source_id": "san-jose-multifamily-market-report-mid-year-2026",
+    "subject": "Berkadia, East San Jose, stabilized occupancy rate",
+    "value": "96.9",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "East San Jose                           96.9%                                     0            $2,959           5.5%"
+  },
+  {
+    "claim_id": "c46",
+    "source_id": "san-jose-multifamily-market-report-mid-year-2026",
+    "subject": "Berkadia, East San Jose, year-over-year effective rent change",
+    "value": "5.5",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "East San Jose                           96.9%                                     0            $2,959           5.5%"
+  },
+  {
+    "claim_id": "c47",
+    "source_id": "san-jose-multifamily-market-report-mid-year-2026",
+    "subject": "Berkadia, North San Jose/Milpitas, stabilized occupancy rate",
+    "value": "97.9",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "North San Jose/Milpitas                 97.9%                                     70           $3,583           7.6%"
+  },
+  {
+    "claim_id": "c48",
+    "source_id": "san-jose-multifamily-market-report-mid-year-2026",
+    "subject": "Berkadia, North San Jose/Milpitas, year-over-year effective rent change",
+    "value": "7.6",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "North San Jose/Milpitas                 97.9%                                     70           $3,583           7.6%"
+  },
+  {
+    "claim_id": "c49",
+    "source_id": "san-jose-multifamily-market-report-mid-year-2026",
+    "subject": "Berkadia, South San Jose, stabilized occupancy rate",
+    "value": "96.9",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "South San Jose                          96.9%                                     80           $3,171           7.3%"
+  },
+  {
+    "claim_id": "c50",
+    "source_id": "san-jose-multifamily-market-report-mid-year-2026",
+    "subject": "Berkadia, South San Jose, year-over-year effective rent change",
+    "value": "7.3",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "South San Jose                          96.9%                                     80           $3,171           7.3%"
+  },
+  {
+    "claim_id": "c51",
+    "source_id": "newmark-2q26-us-multifamily-capital-markets-conditions-trends-short",
+    "subject": "Newmark, San Francisco, year-over-year effective rent growth",
+    "value": "10.6",
+    "unit": "percent",
+    "period": "Q2 2026",
+    "quote": "San Francisco posted both the strongest rent growth (10.6%) and the largest four-quarter improvement (+3.6%), followed closely by San Jose and Virginia Beach, each up 2.9%."
   }
 ]

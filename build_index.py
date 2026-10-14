@@ -9,6 +9,7 @@ Runs verify.py first so REPORT.md is current. Never edits any data file.
 import html
 import json
 import re
+from decimal import Decimal
 from pathlib import Path
 
 import verify
@@ -19,13 +20,24 @@ HERE = Path(__file__).resolve().parent
 # First match wins, so the more specific rules come first.
 RULES = [
     (1, ("vacancy", "occupancy")),
+    (4, ("rent change", "rent growth", "year-over-year", "quarter-over-quarter")),
     (3, ("effective rent", "concession")),
-    (4, ("rent change", "rent growth", "rent per unit year-over-year",
-         "rent per unit quarter-over-quarter", "rent per unit yoy", "rent per unit qoq")),
     (2, ("asking rent", "rent per unit", "average rent")),
     (5, ("absorption",)),
     (6, ("deliver", "completion", "under construction")),
 ]
+
+
+# For the side-by-side comparison: firms label the same area differently.
+# Labels not listed here are compared only with the identical label.
+SAME_AREA = {
+    "San Francisco / SF Peninsula": "San Francisco",
+    "San Francisco": "San Francisco",
+    "Silicon Valley": "San Jose metro",
+    "San Jose": "San Jose metro",
+    "Oakland/East Bay": "Oakland / East Bay",
+    "Oakland": "Oakland / East Bay",
+}
 
 
 def question_for(subject):
@@ -116,6 +128,105 @@ def display_value(value, unit):
     return value, unit
 
 
+def comparison_key(subject):
+    """'Firm, Market, metric' -> (firm, area, metric, from_vacancy), or None."""
+    parts = [p.strip() for p in subject.split(",", 2)]
+    if len(parts) != 3:
+        return None
+    firm, market, metric = parts
+    m = metric.lower()
+    if "change" in m and ("vacancy" in m or "occupancy" in m):
+        return None
+    if "vacancy" in m:
+        return firm, SAME_AREA.get(market, market), "Occupancy", True
+    if "occupancy" in m:
+        return firm, SAME_AREA.get(market, market), "Occupancy", False
+    if "rent" in m and ("year-over-year" in m or "growth" in m):
+        return firm, SAME_AREA.get(market, market), "Year-over-year rent change", False
+    return None
+
+
+def comparison_html(verified_claims):
+    """Side-by-side table of percentages where two or more firms cover the same area."""
+    table = {}
+    for c in verified_claims:
+        if str(c.get("unit", "")).lower() != "percent":
+            continue
+        key = comparison_key(c.get("subject", ""))
+        value = verify.to_number(c.get("value", ""))
+        if key is None or value is None:
+            continue
+        if str(c.get("value", "")).strip().startswith("-"):
+            value = -value
+        firm, area, metric, from_vacancy = key
+        shown = Decimal(100) - value if from_vacancy else value
+        table.setdefault(metric, {}).setdefault(area, {}).setdefault(firm, (shown, c, from_vacancy))
+
+    rows_all, blocks = [], []
+    for metric in ("Occupancy", "Year-over-year rent change"):
+        areas = {a: f for a, f in table.get(metric, {}).items() if len(f) >= 2}
+        if not areas:
+            continue
+        firms = sorted({firm for f in areas.values() for firm in f})
+        rows = []
+        for area, by_firm in areas.items():
+            values = [v for v, _, _ in by_firm.values()]
+            rows.append((max(values) - min(values), area, by_firm))
+        rows.sort(key=lambda r: (r[0], r[1]))
+        low, high = rows[0][0], rows[-1][0]
+        body = []
+        for spread, area, by_firm in rows:
+            rows_all.append((spread, metric, area, by_firm))
+            cells = []
+            for firm in firms:
+                if firm not in by_firm:
+                    cells.append('<td class="na">—</td>')
+                    continue
+                v, c, conv = by_firm[firm]
+                note = (f'<span class="sub">from {esc(c["value"])}% vacancy</span>' if conv else "")
+                cells.append(f'<td><b>{v}%</b><span class="sub">{esc(c["claim_id"])}</span>{note}</td>')
+            tag = ""
+            if len(rows) > 1 and spread == low:
+                tag = '<span class="tag close">closest</span>'
+            elif len(rows) > 1 and spread == high:
+                tag = '<span class="tag far">most different</span>'
+            body.append(f"<tr><th>{esc(area)}</th>{''.join(cells)}"
+                        f'<td class="spread">{spread} pts {tag}</td></tr>')
+        head = "".join(f"<th>{esc(f)}</th>" for f in firms)
+        blocks.append(f"""
+    <h3 class="ctitle">{esc(metric)}</h3>
+    <div class="tablewrap"><table class="cmp">
+      <thead><tr><th>Area</th>{head}<th>Spread</th></tr></thead>
+      <tbody>{''.join(body)}</tbody>
+    </table></div>""")
+
+    if not blocks:
+        return '<p class="empty">No area has the same measure from two or more firms yet.</p>'
+    rows_all.sort(key=lambda r: r[0])
+    def pick(rows):
+        return "".join(
+            f"<li><b>{esc(area)}</b>, {esc(metric.lower())}: {r} pts apart "
+            f"({', '.join(f'{esc(f)} {v}%' for f, (v, _, _) in sorted(by_firm.items()))})</li>"
+            for r, metric, area, by_firm in rows)
+    closest = [r for r in rows_all if r[0] == rows_all[0][0]] or rows_all[:1]
+    if len(closest) < 3:
+        closest = rows_all[:3]
+    farthest = list(reversed(rows_all[-3:]))
+    return f"""
+    <div class="summary">
+      <div><h4>Closest</h4><ul>{pick(closest)}</ul></div>
+      <div><h4>Most different</h4><ul>{pick(farthest)}</ul></div>
+    </div>
+    {''.join(blocks)}
+    <ul class="notes">
+      <li>Spread is the highest value minus the lowest, in percentage points. Rows are sorted from closest to most different.</li>
+      <li>CBRE reports stabilized vacancy. It's shown here as occupancy (100 minus vacancy) so it lines up with the others.</li>
+      <li>Firms draw areas differently: CBRE's "Silicon Valley" sits next to Colliers' "San Jose", and "SF / Peninsula" next to "San Francisco".</li>
+      <li>CBRE's rent change is for "rent per unit" and doesn't say asking or effective. The other firms report effective rent.</li>
+      <li>Firms that buy data from the same provider can match closely without confirming each other.</li>
+    </ul>"""
+
+
 def esc(x):
     return html.escape(str(x))
 
@@ -166,11 +277,13 @@ def build():
     for n, (title, detail) in questions.items():
         cards = "".join(claim_card(c, sources.get(c["source_id"])) for c in groups[n])
         body = cards or '<p class="empty">No verified claims answer this yet.</p>'
+        if n == 7:
+            body = comparison_html([c for c, _ in verified])
         sections.append(f"""
   <section>
     <h2><span class="qn">Q{n}</span> {esc(title)}</h2>
     <p class="qtext">{esc(detail)}</p>
-    <div class="grid">{body}</div>
+    <div class="{'compare' if n == 7 else 'grid'}">{body}</div>
   </section>""")
     if other:
         cards = "".join(claim_card(c, sources.get(c["source_id"])) for c in other)
@@ -244,6 +357,24 @@ mark {{ background: var(--mark); color: inherit; border-radius: 2px; padding: 0 
 .notes {{ font-size: 13px; color: var(--muted); margin: 8px 0 0; padding-left: 18px; }}
 .reason {{ color: var(--held); font-size: 14px; margin: 0 0 8px; }}
 .empty {{ color: var(--muted); font-style: italic; }}
+.summary {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; margin-bottom: 8px; }}
+.summary > div {{ background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; }}
+.summary h4 {{ margin: 0 0 6px; font-size: 14px; }}
+.summary ul {{ margin: 0; padding-left: 18px; font-size: 14px; }}
+.ctitle {{ font-size: 15px; margin: 22px 0 8px; }}
+.tablewrap {{ overflow-x: auto; background: var(--card); border: 1px solid var(--line); border-radius: 10px; }}
+table.cmp {{ border-collapse: collapse; width: 100%; font-size: 14px; font-variant-numeric: tabular-nums; }}
+.cmp th, .cmp td {{ padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top; }}
+.cmp thead th {{ font-size: 12px; color: var(--muted); font-weight: 600; }}
+.cmp tbody tr:last-child th, .cmp tbody tr:last-child td {{ border-bottom: 0; }}
+.cmp tbody th {{ font-weight: 600; min-width: 8em; }}
+@media (max-width: 600px) {{ .cmp th, .cmp td {{ padding: 6px 8px; font-size: 13px; }} }}
+.cmp .sub {{ display: block; font-size: 11px; color: var(--muted); }}
+.cmp .na {{ color: var(--muted); }}
+.cmp .spread {{ white-space: nowrap; font-weight: 600; }}
+.tag {{ display: inline-block; font-size: 11px; font-weight: 600; border-radius: 999px; padding: 1px 8px; margin-left: 6px; }}
+.tag.close {{ background: color-mix(in srgb, var(--accent) 18%, transparent); color: var(--accent); }}
+.tag.far {{ background: color-mix(in srgb, var(--held) 15%, transparent); color: var(--held); }}
 footer {{ margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }}
 footer code {{ background: var(--code); padding: 0 4px; border-radius: 4px; }}
 </style>

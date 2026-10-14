@@ -52,6 +52,24 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 .notes { font-size: 13px; color: var(--muted); margin: 8px 0 0; padding-left: 18px; }
 .reason { color: var(--held); font-size: 14px; margin: 0 0 8px; }
 .empty { color: var(--muted); font-style: italic; }
+.summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; margin-bottom: 8px; }
+.summary > div { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; }
+.summary h4 { margin: 0 0 6px; font-size: 14px; }
+.summary ul { margin: 0; padding-left: 18px; font-size: 14px; }
+.ctitle { font-size: 15px; margin: 22px 0 8px; }
+.tablewrap { overflow-x: auto; background: var(--card); border: 1px solid var(--line); border-radius: 10px; }
+table.cmp { border-collapse: collapse; width: 100%; font-size: 14px; font-variant-numeric: tabular-nums; }
+.cmp th, .cmp td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top; }
+.cmp thead th { font-size: 12px; color: var(--muted); font-weight: 600; }
+.cmp tbody tr:last-child th, .cmp tbody tr:last-child td { border-bottom: 0; }
+.cmp tbody th { font-weight: 600; min-width: 8em; }
+@media (max-width: 600px) { .cmp th, .cmp td { padding: 6px 8px; font-size: 13px; } }
+.cmp .sub { display: block; font-size: 11px; color: var(--muted); }
+.cmp .na { color: var(--muted); }
+.cmp .spread { white-space: nowrap; font-weight: 600; }
+.tag { display: inline-block; font-size: 11px; font-weight: 600; border-radius: 999px; padding: 1px 8px; margin-left: 6px; }
+.tag.close { background: color-mix(in srgb, var(--accent) 18%, transparent); color: var(--accent); }
+.tag.far { background: color-mix(in srgb, var(--held) 15%, transparent); color: var(--held); }
 footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
 footer code { background: var(--code); padding: 0 4px; border-radius: 4px; }
 </style>
@@ -65,7 +83,7 @@ footer code { background: var(--code); padding: 0 4px; border-radius: 4px; }
      It doesn't mean the number is the right fact, so check the notes under each claim.
      Quotes are shown with extra spaces condensed; the saved text keeps them.</p>
   <div class="counts">
-    <div class="count ok"><b>24</b>verified</div>
+    <div class="count ok"><b>51</b>verified</div>
     <div class="count held"><b>0</b>held</div>
     <div class="count"><b>4</b>sources</div>
   </div>
@@ -170,6 +188,138 @@ footer code { background: var(--code); padding: 0 4px; border-radius: 4px; }
       <p class="source">Source: Colliers Capital Markets US Multifamily Report Q2 2026
         <span class="file">sources/colliers-capital-markets-us-multifamily-q2-2026.pdf</span></p>
       <ul class="notes"><li>Quote has 9 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">3.5%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c26</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, Oakland/East Bay, stabilized vacancy rate (current quarter)</h3>
+      
+      <p class="quote">Oakland/East Bay                                                   231,575                 357           0.2%           1,676          <mark>3.5</mark>         -50          -80         2,762        2,676          86           3.3</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">2.5%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c28</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, Mountain View/Palo Alto/Los Altos, stabilized vacancy rate (current quarter)</h3>
+      
+      <p class="quote">Mountain View/Palo Alto/Los Altos                                   33,619                  85           0.3%            391           <mark>2.5</mark>         -90         -200         3,930        3,797          133           7.3</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">3.0%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c30</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, Central San Jose, stabilized vacancy rate (current quarter)</h3>
+      
+      <p class="quote">Central San Jose                                                    27,058                  0            0.0%            187           <mark>3.0</mark>          -70         -50         3,283        3,167          116          5.0</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">3.1%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c32</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, East San Jose, stabilized vacancy rate (current quarter)</h3>
+      
+      <p class="quote">East San Jose                                                       12,712                  0            0.0%             77           <mark>3.1</mark>         -60           0          2,959        2,814          145          4.0</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">2.0%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c34</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, North San Jose/Milpitas, stabilized vacancy rate (current quarter)</h3>
+      
+      <p class="quote">North San Jose/Milpitas                                             14,671                 214           1.5%            292           <mark>2.0</mark>         -60          -70         3,579        3,388          191           7.2</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">3.0%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c36</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, South San Jose, stabilized vacancy rate (current quarter)</h3>
+      
+      <p class="quote">South San Jose                                                      21,838                  0            0.0%            160           <mark>3.0</mark>          -70         -80         3,060        2,935          125          6.2</p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">97.5%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c41</span> · Q2 2026</div>
+      </div>
+      <h3>Berkadia, Mountain View/Palo Alto/Los Altos, stabilized occupancy rate</h3>
+      
+      <p class="quote">Mountain View/Palo Alto/Los Altos       <mark>97.5</mark>%                                    120           $3,930           5.7%</p>
+      <p class="source">Source: San Jose Multifamily Market Report, Mid-Year 2026
+        <span class="file">sources/san-jose-multifamily-market-report-mid-year-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 4 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">97.0%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c43</span> · Q2 2026</div>
+      </div>
+      <h3>Berkadia, Central San Jose, stabilized occupancy rate</h3>
+      
+      <p class="quote">Central San Jose                        <mark>97.0</mark>%                                     50           $3,276           5.9%</p>
+      <p class="source">Source: San Jose Multifamily Market Report, Mid-Year 2026
+        <span class="file">sources/san-jose-multifamily-market-report-mid-year-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 4 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">96.9%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c45</span> · Q2 2026</div>
+      </div>
+      <h3>Berkadia, East San Jose, stabilized occupancy rate</h3>
+      
+      <p class="quote">East San Jose                           <mark>96.9</mark>%                                     0            $2,959           5.5%</p>
+      <p class="source">Source: San Jose Multifamily Market Report, Mid-Year 2026
+        <span class="file">sources/san-jose-multifamily-market-report-mid-year-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 4 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">97.9%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c47</span> · Q2 2026</div>
+      </div>
+      <h3>Berkadia, North San Jose/Milpitas, stabilized occupancy rate</h3>
+      
+      <p class="quote">North San Jose/Milpitas                 <mark>97.9</mark>%                                     70           $3,583           7.6%</p>
+      <p class="source">Source: San Jose Multifamily Market Report, Mid-Year 2026
+        <span class="file">sources/san-jose-multifamily-market-report-mid-year-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 4 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">96.9%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c49</span> · Q2 2026</div>
+      </div>
+      <h3>Berkadia, South San Jose, stabilized occupancy rate</h3>
+      
+      <p class="quote">South San Jose                          <mark>96.9</mark>%                                     80           $3,171           7.3%</p>
+      <p class="source">Source: San Jose Multifamily Market Report, Mid-Year 2026
+        <span class="file">sources/san-jose-multifamily-market-report-mid-year-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 4 numbers. Confirm the column or phrase this value comes from.</li></ul>
     </article></div>
   </section>
   <section>
@@ -269,6 +419,198 @@ footer code { background: var(--code); padding: 0 4px; border-radius: 4px; }
       <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
         <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
       <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">11.4%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c25</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, San Francisco / SF Peninsula, rent per unit year-over-year change</h3>
+      
+      <p class="quote">San Francisco / SF Peninsula                                       264,311                 228           0.1%           1,863          2.4         -40          -60         3,936        3,744          192          <mark>11.4</mark></p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">3.3%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c27</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, Oakland/East Bay, rent per unit year-over-year change</h3>
+      
+      <p class="quote">Oakland/East Bay                                                   231,575                 357           0.2%           1,676          3.5         -50          -80         2,762        2,676          86           <mark>3.3</mark></p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">7.3%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c29</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, Mountain View/Palo Alto/Los Altos, rent per unit year-over-year change</h3>
+      
+      <p class="quote">Mountain View/Palo Alto/Los Altos                                   33,619                  85           0.3%            391           2.5         -90         -200         3,930        3,797          133           <mark>7.3</mark></p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">5.0%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c31</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, Central San Jose, rent per unit year-over-year change</h3>
+      
+      <p class="quote">Central San Jose                                                    27,058                  0            0.0%            187           3.0          -70         -50         3,283        3,167          116          <mark>5.0</mark></p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">4.0%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c33</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, East San Jose, rent per unit year-over-year change</h3>
+      
+      <p class="quote">East San Jose                                                       12,712                  0            0.0%             77           3.1         -60           0          2,959        2,814          145          <mark>4.0</mark></p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">7.2%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c35</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, North San Jose/Milpitas, rent per unit year-over-year change</h3>
+      
+      <p class="quote">North San Jose/Milpitas                                             14,671                 214           1.5%            292           2.0         -60          -70         3,579        3,388          191           <mark>7.2</mark></p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">6.2%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c37</span> · Q2 2026</div>
+      </div>
+      <h3>CBRE, South San Jose, rent per unit year-over-year change</h3>
+      
+      <p class="quote">South San Jose                                                      21,838                  0            0.0%            160           3.0          -70         -80         3,060        2,935          125          <mark>6.2</mark></p>
+      <p class="source">Source: <a href="https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026">Bay Area Multifamily Figures Q2 2026</a>
+        <span class="file">sources/cbre-bay-area-multifamily-figures-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 11 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">10.6%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c38</span> · Q2 2026</div>
+      </div>
+      <h3>Colliers, San Francisco, year-over-year effective rent change</h3>
+      
+      <p class="quote">San Francisco                         255,033         97.6%         0.7%            $3,938            <mark>10.6</mark>%          $4.83           0          1,228        3,573</p>
+      <p class="source">Source: Colliers Capital Markets US Multifamily Report Q2 2026
+        <span class="file">sources/colliers-capital-markets-us-multifamily-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 9 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">6.1%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c39</span> · Q2 2026</div>
+      </div>
+      <h3>Colliers, San Jose, year-over-year effective rent change</h3>
+      
+      <p class="quote">San Jose                              190,290         97.4%         0.7%            $3,538            <mark>6.1</mark>%           $4.01           0          1,300        3,347</p>
+      <p class="source">Source: Colliers Capital Markets US Multifamily Report Q2 2026
+        <span class="file">sources/colliers-capital-markets-us-multifamily-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 9 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">3.4%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c40</span> · Q2 2026</div>
+      </div>
+      <h3>Colliers, Oakland, year-over-year effective rent change</h3>
+      
+      <p class="quote">Oakland                                224,611         96.6%         0.8%            $2,762            <mark>3.4</mark>%           $3.28          196         1,207        1,115</p>
+      <p class="source">Source: Colliers Capital Markets US Multifamily Report Q2 2026
+        <span class="file">sources/colliers-capital-markets-us-multifamily-q2-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 9 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">5.7%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c42</span> · Q2 2026</div>
+      </div>
+      <h3>Berkadia, Mountain View/Palo Alto/Los Altos, year-over-year effective rent change</h3>
+      
+      <p class="quote">Mountain View/Palo Alto/Los Altos       97.5%                                    120           $3,930           <mark>5.7</mark>%</p>
+      <p class="source">Source: San Jose Multifamily Market Report, Mid-Year 2026
+        <span class="file">sources/san-jose-multifamily-market-report-mid-year-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 4 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">5.9%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c44</span> · Q2 2026</div>
+      </div>
+      <h3>Berkadia, Central San Jose, year-over-year effective rent change</h3>
+      
+      <p class="quote">Central San Jose                        97.0%                                     50           $3,276           <mark>5.9</mark>%</p>
+      <p class="source">Source: San Jose Multifamily Market Report, Mid-Year 2026
+        <span class="file">sources/san-jose-multifamily-market-report-mid-year-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 4 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">5.5%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c46</span> · Q2 2026</div>
+      </div>
+      <h3>Berkadia, East San Jose, year-over-year effective rent change</h3>
+      
+      <p class="quote">East San Jose                           96.9%                                     0            $2,959           <mark>5.5</mark>%</p>
+      <p class="source">Source: San Jose Multifamily Market Report, Mid-Year 2026
+        <span class="file">sources/san-jose-multifamily-market-report-mid-year-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 4 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">7.6%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c48</span> · Q2 2026</div>
+      </div>
+      <h3>Berkadia, North San Jose/Milpitas, year-over-year effective rent change</h3>
+      
+      <p class="quote">North San Jose/Milpitas                 97.9%                                     70           $3,583           <mark>7.6</mark>%</p>
+      <p class="source">Source: San Jose Multifamily Market Report, Mid-Year 2026
+        <span class="file">sources/san-jose-multifamily-market-report-mid-year-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 4 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">7.3%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c50</span> · Q2 2026</div>
+      </div>
+      <h3>Berkadia, South San Jose, year-over-year effective rent change</h3>
+      
+      <p class="quote">South San Jose                          96.9%                                     80           $3,171           <mark>7.3</mark>%</p>
+      <p class="source">Source: San Jose Multifamily Market Report, Mid-Year 2026
+        <span class="file">sources/san-jose-multifamily-market-report-mid-year-2026.pdf</span></p>
+      <ul class="notes"><li>Quote has 4 numbers. Confirm the column or phrase this value comes from.</li></ul>
+    </article>
+    <article class="claim">
+      <div class="top">
+        <div class="value">10.6%<span class="unit"></span></div>
+        <div class="meta"><span class="id">c51</span> · Q2 2026</div>
+      </div>
+      <h3>Newmark, San Francisco, year-over-year effective rent growth</h3>
+      
+      <p class="quote">San Francisco posted both the strongest rent growth (<mark>10.6</mark>%) and the largest four-quarter improvement (+3.6%), followed closely by San Jose and Virginia Beach, each up 2.9%.</p>
+      <p class="source">Source: Newmark 2Q26 U.S. Multifamily Capital Markets Conditions &amp; Trends (Short)
+        <span class="file">sources/newmark-2q26-us-multifamily-capital-markets-conditions-trends-short.pdf</span></p>
+      <ul class="notes"><li>Quote has 3 numbers. Confirm the column or phrase this value comes from.</li></ul>
     </article></div>
   </section>
   <section>
@@ -392,7 +734,29 @@ footer code { background: var(--code); padding: 0 4px; border-radius: 4px; }
   <section>
     <h2><span class="qn">Q7</span> Comparison</h2>
     <p class="qtext">Where two or more firms report the same market and quarter, how far apart are their figures? Which differences come from definitions (area boundaries, stabilized vs. total, asking vs. effective) rather than from the market?</p>
-    <div class="grid"><p class="empty">No verified claims answer this yet.</p></div>
+    <div class="compare">
+    <div class="summary">
+      <div><h4>Closest</h4><ul><li><b>Central San Jose</b>, occupancy: 0.0 pts apart (Berkadia 97.0%, CBRE 97.0%)</li><li><b>East San Jose</b>, occupancy: 0.0 pts apart (Berkadia 96.9%, CBRE 96.9%)</li><li><b>Mountain View/Palo Alto/Los Altos</b>, occupancy: 0.0 pts apart (Berkadia 97.5%, CBRE 97.5%)</li><li><b>San Francisco</b>, occupancy: 0.0 pts apart (CBRE 97.6%, Colliers 97.6%)</li><li><b>San Jose metro</b>, occupancy: 0.0 pts apart (CBRE 97.4%, Colliers 97.4%)</li></ul></div>
+      <div><h4>Most different</h4><ul><li><b>Mountain View/Palo Alto/Los Altos</b>, year-over-year rent change: 1.6 pts apart (Berkadia 5.7%, CBRE 7.3%)</li><li><b>East San Jose</b>, year-over-year rent change: 1.5 pts apart (Berkadia 5.5%, CBRE 4.0%)</li><li><b>South San Jose</b>, year-over-year rent change: 1.1 pts apart (Berkadia 7.3%, CBRE 6.2%)</li></ul></div>
+    </div>
+    
+    <h3 class="ctitle">Occupancy</h3>
+    <div class="tablewrap"><table class="cmp">
+      <thead><tr><th>Area</th><th>Berkadia</th><th>CBRE</th><th>Colliers</th><th>Spread</th></tr></thead>
+      <tbody><tr><th>Central San Jose</th><td><b>97.0%</b><span class="sub">c43</span></td><td><b>97.0%</b><span class="sub">c30</span><span class="sub">from 3.0% vacancy</span></td><td class="na">—</td><td class="spread">0.0 pts <span class="tag close">closest</span></td></tr><tr><th>East San Jose</th><td><b>96.9%</b><span class="sub">c45</span></td><td><b>96.9%</b><span class="sub">c32</span><span class="sub">from 3.1% vacancy</span></td><td class="na">—</td><td class="spread">0.0 pts <span class="tag close">closest</span></td></tr><tr><th>Mountain View/Palo Alto/Los Altos</th><td><b>97.5%</b><span class="sub">c41</span></td><td><b>97.5%</b><span class="sub">c28</span><span class="sub">from 2.5% vacancy</span></td><td class="na">—</td><td class="spread">0.0 pts <span class="tag close">closest</span></td></tr><tr><th>San Francisco</th><td class="na">—</td><td><b>97.6%</b><span class="sub">c1</span><span class="sub">from 2.4% vacancy</span></td><td><b>97.6%</b><span class="sub">c9</span></td><td class="spread">0.0 pts <span class="tag close">closest</span></td></tr><tr><th>San Jose metro</th><td class="na">—</td><td><b>97.4%</b><span class="sub">c3</span><span class="sub">from 2.6% vacancy</span></td><td><b>97.4%</b><span class="sub">c13</span></td><td class="spread">0.0 pts <span class="tag close">closest</span></td></tr><tr><th>North San Jose/Milpitas</th><td><b>97.9%</b><span class="sub">c47</span></td><td><b>98.0%</b><span class="sub">c34</span><span class="sub">from 2.0% vacancy</span></td><td class="na">—</td><td class="spread">0.1 pts <span class="tag far">most different</span></td></tr><tr><th>Oakland / East Bay</th><td class="na">—</td><td><b>96.5%</b><span class="sub">c26</span><span class="sub">from 3.5% vacancy</span></td><td><b>96.6%</b><span class="sub">c17</span></td><td class="spread">0.1 pts <span class="tag far">most different</span></td></tr><tr><th>South San Jose</th><td><b>96.9%</b><span class="sub">c49</span></td><td><b>97.0%</b><span class="sub">c36</span><span class="sub">from 3.0% vacancy</span></td><td class="na">—</td><td class="spread">0.1 pts <span class="tag far">most different</span></td></tr></tbody>
+    </table></div>
+    <h3 class="ctitle">Year-over-year rent change</h3>
+    <div class="tablewrap"><table class="cmp">
+      <thead><tr><th>Area</th><th>Berkadia</th><th>CBRE</th><th>Colliers</th><th>Newmark</th><th>Spread</th></tr></thead>
+      <tbody><tr><th>Oakland / East Bay</th><td class="na">—</td><td><b>3.3%</b><span class="sub">c27</span></td><td><b>3.4%</b><span class="sub">c40</span></td><td class="na">—</td><td class="spread">0.1 pts <span class="tag close">closest</span></td></tr><tr><th>San Jose metro</th><td class="na">—</td><td><b>6.4%</b><span class="sub">c4</span></td><td><b>6.1%</b><span class="sub">c39</span></td><td class="na">—</td><td class="spread">0.3 pts </td></tr><tr><th>North San Jose/Milpitas</th><td><b>7.6%</b><span class="sub">c48</span></td><td><b>7.2%</b><span class="sub">c35</span></td><td class="na">—</td><td class="na">—</td><td class="spread">0.4 pts </td></tr><tr><th>San Francisco</th><td class="na">—</td><td><b>11.4%</b><span class="sub">c25</span></td><td><b>10.6%</b><span class="sub">c38</span></td><td><b>10.6%</b><span class="sub">c51</span></td><td class="spread">0.8 pts </td></tr><tr><th>Central San Jose</th><td><b>5.9%</b><span class="sub">c44</span></td><td><b>5.0%</b><span class="sub">c31</span></td><td class="na">—</td><td class="na">—</td><td class="spread">0.9 pts </td></tr><tr><th>South San Jose</th><td><b>7.3%</b><span class="sub">c50</span></td><td><b>6.2%</b><span class="sub">c37</span></td><td class="na">—</td><td class="na">—</td><td class="spread">1.1 pts </td></tr><tr><th>East San Jose</th><td><b>5.5%</b><span class="sub">c46</span></td><td><b>4.0%</b><span class="sub">c33</span></td><td class="na">—</td><td class="na">—</td><td class="spread">1.5 pts </td></tr><tr><th>Mountain View/Palo Alto/Los Altos</th><td><b>5.7%</b><span class="sub">c42</span></td><td><b>7.3%</b><span class="sub">c29</span></td><td class="na">—</td><td class="na">—</td><td class="spread">1.6 pts <span class="tag far">most different</span></td></tr></tbody>
+    </table></div>
+    <ul class="notes">
+      <li>Spread is the highest value minus the lowest, in percentage points. Rows are sorted from closest to most different.</li>
+      <li>CBRE reports stabilized vacancy. It's shown here as occupancy (100 minus vacancy) so it lines up with the others.</li>
+      <li>Firms draw areas differently: CBRE's "Silicon Valley" sits next to Colliers' "San Jose", and "SF / Peninsula" next to "San Francisco".</li>
+      <li>CBRE's rent change is for "rent per unit" and doesn't say asking or effective. The other firms report effective rent.</li>
+      <li>Firms that buy data from the same provider can match closely without confirming each other.</li>
+    </ul></div>
   </section>
   <section>
     <h2>Held claims</h2>

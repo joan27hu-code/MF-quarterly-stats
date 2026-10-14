@@ -102,11 +102,26 @@ def review_notes(claim):
     return notes
 
 
+def display_value(value, unit):
+    """Show 2.4 + 'percent' as 2.4%, and 3,936 + 'dollars ...' as $3,936. Display only."""
+    value, unit = str(value), str(unit)
+    u = unit.lower()
+    if u in ("percent", "%"):
+        return f"{value}%", ""
+    if u in ("basis points", "bps"):
+        return f"{value} bps", ""
+    if u.startswith("dollars"):
+        sign = "-" if value.startswith("-") else ""
+        return f"{sign}${value.lstrip('-$')}", unit[len("dollars"):].strip()
+    return value, unit
+
+
 def esc(x):
     return html.escape(str(x))
 
 
 def claim_card(c, source, status_reason=None):
+    shown, unit_note = display_value(c.get('value', ''), c.get('unit', ''))
     src_title = esc(source.get("title", c.get("source_id", ""))) if source else esc(c.get("source_id", ""))
     url = source.get("url", "") if source else ""
     src_link = f'<a href="{esc(url)}">{src_title}</a>' if url else src_title
@@ -117,7 +132,7 @@ def claim_card(c, source, status_reason=None):
     return f"""
     <article class="claim{' held' if status_reason else ''}">
       <div class="top">
-        <div class="value">{esc(c.get('value', ''))}<span class="unit">{esc(c.get('unit', ''))}</span></div>
+        <div class="value">{esc(shown)}<span class="unit">{esc(unit_note)}</span></div>
         <div class="meta"><span class="id">{esc(c.get('claim_id', ''))}</span> · {esc(c.get('period', ''))}</div>
       </div>
       <h3>{esc(c.get('subject', ''))}</h3>

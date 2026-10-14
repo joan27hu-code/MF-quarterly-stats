@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "cbre-bay-area-multifamily-figures-q2-2026",
+    "title": "Bay Area Multifamily Figures Q2 2026",
+    "url": "https://www.cbre.com/insights/figures/bay-area-multifamily-figures-q2-2026",
+    "original": "sources/cbre-bay-area-multifamily-figures-q2-2026.pdf",
+    "capture": "captures/cbre-bay-area-multifamily-figures-q2-2026.txt",
+    "extractor": "pdftotext -layout",
+    "sha256": "6022ab02c771eb100d4255487997f8284acfc8bcaa64e5d53fd737a119ff7274",
+    "capture_sha256": "c4074112ebe76071a89acf1fe5c921a0f1028e7bdca76dd2b2c49d710a4fca85",
+    "added_on": "2026-10-14"
+  }
+]

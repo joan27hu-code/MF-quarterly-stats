@@ -1,0 +1,627 @@
+           FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026
+
+    FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026
+
+    San Francisco 15% Rent Growth Charges Greater Bay Area Resurgence
+                                                                                                                                              •      Bay Area rent growth reached 7.7% year-over-year in Q2 2026, with the SF/Peninsula
+                                                         San Jose / Silicon                 San Francisco/   Oakland /
+                     Market
+                                                              Valley                          Peninsula      East Bay
+                                                                                                                                   Bay Area          submarket leading at 11.4% YoY.
+                                                                                                                                              •      Bay Area vacancy compressed to 2.8%, down 49 basis points quarter-over-quarter and 72
+    Occupancy Rate                                                    97.4%                    97.6%          96.5%             97.2%            basis points year-over-year.
+    Average Rental Rate (Unit)                                       $3,516                    $3,936         $2,762           $3,423     •      San Francisco's vacancy rate hit 2.4%, with SoMa and West SF posting vacancy rates of
+    Q2 Rent Change YoY                                                 6.4%                    11.4%          3.3%              7.7%             2.0% and 1.8%, respectively.
+                                                                                                                                              •      The Bay Area delivered 884 units against 5,104 units of net absorption, a 5.8x absorption-
+    2026 YE Net Absorption (Units)                                    3,459                    3,838          3,763            11,060
+                                                                                                                                                     to-completion ratio.
+    2026 YE Deliveries (Units)                                         954                      627            450              2,031     •      Bay Area transaction volume reached $2.3 billion in 2026 year-to-date, with QoQ sales
+    2026 Transaction Volume                                           $1.0B                    $973M          $322M             $2.3B            marginally declining due to lack of market inventory.
+           Note: Arrows indicate change from previous quarter unless otherwise indicated.
+
+
+     Vacancy Rate (%)                                              Q2 2026                    Pre-pandemic Average (2015 - 2019)                  Average Effective Monthly Rent by MSA
+                                                                                                                                                                                          Average Rent ($)   National Effective Average Rent - $2,256
+    7.0%                                                                                                                                      $4,500
+    6.0%                                                                                                                                      $4,000
+    5.0%                                                                                                                                      $3,500
+                                                                                                                                              $3,000
+    4.0%
+                                                                                                                                              $2,500
+    3.0%                                                                                                                                      $2,000
+    2.0%                                                                                                                                      $1,500
+    1.0%                                                                                                                                      $1,000
+                                                                                                                                                  $500
+    0.0%
+                                                                                                                                                   $0
+
+
+
+
+1          CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                                                          © 2026 CBRE, INC.
+            FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026
+
+
+                                                                                                                              Net
+                      Market/Submarket                                   Existing                   Completions                                      Vacancy Rate                                 Rent per Unit
+                                                                                                                           Absorption
+                                                                                                                                                                                              Previous
+                                                                       Inventory             Current Qtr.   Current Qtr.   Current Qtr.   Current Qtr. QoQ Change YoY Change   Current Qtr.              QoQ Change YoY Change
+                                                                                                                                                                                              Quarter
+                                                                         (Units)               (Units)       (% of E.I.)     (Units)         (%)        (BPS)       (BPS)*         ($)          ($)           ($)          (%)
+      San Francisco / SF Peninsula                                       264,311                 228           0.1%           1,863          2.4         -40          -60         3,936        3,744          192          11.4
+      Downtown San Francisco                                              86,898                  0            0.0%            620           2.6          -70         -40         4,007        3,802          205          17.1
+      SoMa                                                                51,527                 184           0.4%            223           2.0          -10        -150         4,363        4,093          270          17.3
+      Marin County                                                        19,721                   8           0.0%             91           3.2         -40          -30         3,445        3,304          141          4.5
+      West San Francisco                                                  40,103                  0            0.0%            477           1.8         -120        -190         3,986        3,863          123          10.1
+      Central San Mateo County                                            24,197                  0            0.0%            184           2.3           0          -40         3,809        3,626          183           8.2
+      North San Mateo County                                              19,974                  0            0.0%            -49           2.8          30           30         3,206        3,093          113           5.6
+      South San Mateo County                                              21,891                  36           0.2%            317           2.3         -130         -30         4,239        4,079          161          6.4
+      Silicon Valley                                                     181,989                 299           0.2%           1,565          2.6         -60          -80         3,516        3,364          152          6.4
+      Central San Jose                                                    27,058                  0            0.0%            187           3.0          -70         -50         3,283        3,167          116          5.0
+      East San Jose                                                       12,712                  0            0.0%             77           3.1         -60           0          2,959        2,814          145          4.0
+      Mountain View/Palo Alto/Los Altos                                   33,619                  85           0.3%            391           2.5         -90         -200         3,930        3,797          133           7.3
+      North San Jose/Milpitas                                             14,671                 214           1.5%            292           2.0         -60          -70         3,579        3,388          191           7.2
+      North Sunnyvale                                                     17,645                  0            0.0%            130           1.9         -80          -50         3,746        3,560          185          6.8
+      Santa Clara                                                         22,531                  0            0.0%             66           2.9         -30          -70         3,710        3,562          148          6.0
+      South San Jose                                                      21,838                  0            0.0%            160           3.0          -70         -80         3,060        2,935          125          6.2
+      South Sunnyvale/Cupertino                                           10,672                  0            0.0%             89           2.2         -80         -120         3,704        3,549          155          8.4
+      West San Jose/Campbell                                              21,243                  0            0.0%            173           3.1         -80         -120          3,113       2,976          136          3.9
+      Oakland/East Bay                                                   231,575                 357           0.2%           1,676          3.5         -50          -80         2,762        2,676          86           3.3
+      Concord/Martinez                                                    16,962                  0            0.0%             48           3.7         -20          -70         2,416        2,394           22          0.0
+      Fremont                                                             22,189                  0            0.0%            142           2.6          -70         -20         2,944        2,806          138          4.5
+      Hayward/San Leandro/Union City                                      32,103                 180           0.6%            264           4.1         -30          -30         2,524        2,470           54           1.4
+      Livermore/Pleasanton                                                 9,111                  0            0.0%             12           4.0          -10         -30         2,874        2,763           111          3.1
+      Northeast Contra Costa County                                       11,144                  0            0.0%             80           3.5         -80         -150         2,293        2,245           49           1.3
+      Northwest Contra Costa County                                       16,399                  69           0.4%            152           2.9         -50          -40         2,490        2,450           39          0.9
+      Oakland/Berkeley                                                   101,739                 108           0.1%            798           4.0          -70        -180         2,950        2,854           96          4.7
+      San Ramon/Dublin                                                     8,973                  0            0.0%             54           2.6         -60          -90         2,864        2,757          107          4.3
+      Walnut Creek/Lafayette                                              12,955                  0            0.0%            126           3.2         -90          -50         2,763        2,692           71          3.0
+      Total Bay Area Market                                              677,875                 884           0.1%           5,104          2.8         -49          -72         3,423        3,278          145          7.7
+
+    *Note: The vacancy rate in this table represents the vacancy rate of stabilized units.
+
+2           CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                                         © 2026 CBRE, INC.
+                           FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026
+
+
+                                                                                                                      Bay Area Submarkets YoY Rent & Vacancy Change
+                   4.50%
+
+
+                                                             Hayward/San Leandro/Union City
+                   4.00%
+                                                                     Livermore/Pleasanton          Oakland/Berkeley
+                                     Concord/Martinez
+
+                                               Northeast Contra Costa County
+                   3.50%
+
+                                                                           Walnut Creek/Lafayette
+                                                                                          Marin County
+                                                                    East San Jose
+                   3.00%              Northwest Contra Costa County    West San Jose/Campbell                 South San Jose
+                                                                                        Central San Jose              Total Bay Area
+                                                                                                       Santa Clara
+                                                                                                    North San Mateo County                                                                                 Downtown San Francisco
+                                                                     San Ramon/Dublin      Fremont
+                   2.50%                                                                                                   Mountain View/Palo Alto/Los Altos
+    Vacancy Rate
+
+
+
+
+                                                                                                                           Central San Mateo County
+                                                                                                            South San Mateo County                      South Sunnyvale/Cupertino
+                                                                                                                                                                                                                           SoMa
+                   2.00%                                                                                                                   North San Jose/Milpitas
+                                                                                                                                       North Sunnyvale
+
+                                                                                                                                                           West San Francisco
+                   1.50%
+
+
+
+
+                   1.00%
+
+
+
+
+                   0.50%
+
+
+
+
+                   0.00%
+                       -1.00%                       1.00%                        3.00%                        5.00%                  7.00%                9.00%                 11.00%   13.00%   15.00%          17.00%                19.00%
+                                                                                                                                                    YoY Rent Change
+                   *Note: The vacancy rate in this table represents the vacancy rate of stabilized units.
+
+3                          CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                                   © 2026 CBRE, INC.
+          FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026                             San Jose/Silicon Valley
+    FIGURE 1: Occupancy and Average Asking Rental Rate – San Jose/Silicon Valley                                      FIGURE 3: Top 5 Submarkets by Rent Growth
+
+      Occupancy (%)                                                                                                                                                                       South Sunnyvale/Cupertino
+                                                                                          Monthly Rent Per Unit ($)
+    98.0%                                                                                                 $4,000
+                                                                                                                                                                                          Mountain View/Palo Alto/Los Altos
+    97.0%                                                                                                 $3,500
+                                                                                                          $3,000                                                                          North San Jose/Milpitas
+    96.0%                                                                                                 $2,500
+    95.0%                                                                                                 $2,000                                                                          North Sunnyvale
+
+    94.0%                                                                                                 $1,500
+                                                                                                          $1,000                                                                         Silicon
+                                                                                                                                                                                          Silicon Valley
+                                                                                                                                                                                                  Valley
+    93.0%                                                                                                 $500
+                                                                                                                                                                                          South San Jose
+    92.0%                                                                                                 $0
+                                                                                                                         0.0%           2.0%         4.0%         6.0%        8.0%    10.0%
+
+                               Occupancy Rate                           Monthly Rent Per Unit                                                               Rent Growth Y-o-Y (%)
+
+
+
+    FIGURE 2: Rent Change Year over Year                                                                              FIGURE 4: Occupancy Rate Change Year over Year
+
+        Rent Change Y-o-Y (bps)                                                           Monthly Rent Per Unit ($)          Occupancy Change Y-o-Y (bps)                                                  Occupancy Rate (%)
+    20.0%                                                                                                $4,000         4                                                                                              98.0%
+     15.0%                                                                                               $3,500
+                                                                                                                        3                                                                                               97.0%
+                                                                                                         $3,000
+     10.0%
+                                                                                                                        2                                                                                               96.0%
+                                                                                                         $2,500
+      5.0%
+                                                                                                         $2,000         1                                                                                               95.0%
+     0.0%
+                                                                                                         $1,500
+                                                                                                                        0                                                                                               94.0%
+     -5.0%
+                                                                                                         $1,000
+    -10.0%                                                                                                              -1                                                                                              93.0%
+                                                                                                         $500
+    -15.0%                                                                                               $-            -2                                                                                               92.0%
+
+
+                                                                                                                                                     Occupancy Change Y-o-Y (L)      Occupancy Rate (R)
+                           Rent Change Y-o-Y (L)                        Monthly Rent Per Unit (R)
+
+
+4         CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                                    © 2026 CBRE, INC.
+          FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026                                                 San Jose/Silicon Valley
+    FIGURE 5: Completions and Absorption                                                                                                   FIGURE 6: Median Household Income and National Comparison
+     Units (thousands)                                                                          Completions             Net Absorption      Median Household Income                                                              Average Monthly Rent Per Unit
+      5                                                                                                                                     $190,000                                                                                                     $4,000
+      4                                                                                                                                     $170,000                                                                                                     $3,500
+                                                                                                                                            $150,000                                                                                                     $3,000
+      3
+                                                                                                                                                                                                                                                         $2,500
+      2                                                                                                                                     $130,000
+                                                                                                                                                                                                                                                         $2,000
+      1                                                                                                                                     $110,000
+                                                                                                                                                                                                                                                         $1,500
+      0                                                                                                                                      $90,000                                                                                                     $1,000
+                                                                                                                                             $70,000                                                                                                     $500
+     -1
+                                                                                                                                             $50,000                                                                                                     $0
+     -2
+                                                                                                                                                               2021             2022             2023             2024          2025        2026
+                                                                                                                                                     San Jose-Sunnyvale-Santa Clara MSA                  USA           San Jose Avg. Rent     USA Avg. Rent
+          *Net Absorption: The change in occupied units from one period to the next, recognized at the tenant move-in date.
+                                                                                                                                         Source: CBRE Research, CBRE Econometric Advisors, Oxford Economics, Q2 2026
+
+    FIGURE 7: Net Absorption                                                                                                              FIGURE 8: Units Delivered and Inventory Change
+
+      Units                                                                                                                                 Units                                                                                                      % Change
+       8,000                                                                                                                                3,000                                                                                                          4.0%
+                                                                                                                                                                                                                                                           3.5%
+                                                                                                                                            2,500
+       6,000                                                                                                                                                                                                                                               3.0%
+                                                                                                                                            2,000
+                                                                                                                                                                                                                                                           2.5%
+       4,000
+                                                                                                                                            1,500                                                                                                          2.0%
+                                                                                                                                                                                                                                                           1.5%
+       2,000                                                                                                                                1,000
+                                                                                                                                                                                                                                                           1.0%
+                                                                                                                                              500
+            -                                                                                                                                                                                                                                              0.5%
+                                                                                                                                                -                                                                                                          0.0%
+      (2,000)
+                        2021                 2022                2023                 2024                2025                2026
+
+
+                                            Q1            Q2            Q3          Q4            YTD Total                                                                       Delivered (Units)            YOY Inventory Change (%)
+
+
+
+5         CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                                                                         © 2026 CBRE, INC.
+          FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026                               San Jose/Silicon Valley
+     FIGURE 9: Transaction Volume                                                                                    FIGURE 10: Quarterly Average Sale Price per Unit vs. Cap Rate
+
+     Volume ($ In Millions)                                                                      Units Transacted   Avg. Sale Price / Unit                                                                Avg. Cap Rate
+                                              Investment Volume ($)         Units Transacted                                                               Average Sale Price/ Unit    Average Cap Rate
+     $1,200                                                                                               3,000     $500,000                                                                                     6.0%
+                                                                                                                    $450,000
+     $1,000                                                                                               2,500                                                                                                  5.5%
+                                                                                                                    $400,000
+      $800                                                                                                2,000     $350,000                                                                                     5.0%
+                                                                                                                    $300,000
+      $600                                                                                                1,500     $250,000                                                                                     4.5%
+                                                                                                                    $200,000
+      $400                                                                                                1,000                                                                                                  4.0%
+                                                                                                                     $150,000
+      $200                                                                                                500       $100,000                                                                                     3.5%
+                                                                                                                      $50,000
+          $0                                                                                              0                $0                                                                                    3.0%
+
+
+
+    Source: CBRE Research, Real Capital Analytics, Q2 2026                                                          Source: CBRE Research, Real Capital Analytics, Q2 2026
+
+     FIGURE 11: Notable Transactions
+
+
+      Property Name                                               City                Units         Year Built                Price                      Sale Price/Unit              Sale Price/SF       Sale Date
+
+                            The Fay                             San Jose               336             2024              $175,000,000                          $520,833                   $403             May-26
+
+                   Meridian At Midtown                          San Jose                218             2015             $105,250,000                          $482,798                    $531            Jun-26
+
+               Almaden Terrace Apartments                       San Jose               262              1972              $87,667,000                          $334,607                   $379             Jun-26
+
+                       The Highlander                           Sunnyvale               173            1969               $69,500,000                           $401,734                  $320             Jun-26
+
+                     Saratoga Gardens                           San Jose                75              1985              $28,850,000                          $384,667                    $315            May-26
+
+     Source: CBRE Research, Real Capital Analytics, Q2 2026
+
+6        CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                                  © 2026 CBRE, INC.
+        FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026                           San Francisco/Peninsula
+    FIGURE 1: Occupancy and Average Asking Rental Rate – San Francisco/Peninsula                                    FIGURE 3: Top 5 Submarkets by Rent Growth
+       Occupancy (%)                                                                    Monthly Rent Per Unit ($)
+                                                                                                                                                                                    SoMa
+    98.0%                                                                                               $4,500
+    97.0%                                                                                               $4,000
+                                                                                                        $3,500                                                                      Downtown San Francisco
+    96.0%
+    95.0%                                                                                               $3,000
+                                                                                                        $2,500                                                                     San Francisco/SF
+                                                                                                                                                                                   San Francisco / SF Peninsula
+                                                                                                                                                                                                      Peninsula
+    94.0%
+                                                                                                        $2,000
+    93.0%                                                                                               $1,500                                                                      West San Francisco
+    92.0%                                                                                               $1,000
+    91.0%                                                                                               $500                                                                        Central San Mateo County
+    90.0%                                                                                               $0
+                                                                                                                     0.0%               5.0%            10.0%          15.0%    20.0%
+                                                                                                                                                        Rent Growth Y-o-Y (%)
+                              Occupancy Rate                          Monthly Rent Per Unit
+
+
+    FIGURE 2: Rent Change Year over Year                                                                            FIGURE 4: Occupancy Rate Change Year over Year
+         Rent Change Y-o-Y (%)                                                          Monthly Rent Per Unit ($)
+                                                                                                                         Occupancy Change Y-o-Y (bps)                                            Occupancy Rate (%)
+      15.0%                                                                                            $4,500        5                                                                                       98.0%
+                                                                                                       $4,000                                                                                                97.0%
+      10.0%                                                                                                          4
+                                                                                                       $3,500                                                                                                96.0%
+                                                                                                                     3
+      5.0%                                                                                             $3,000                                                                                                95.0%
+                                                                                                                     2
+                                                                                                       $2,500                                                                                                94.0%
+      0.0%                                                                                                           1
+                                                                                                       $2,000                                                                                                93.0%
+      -5.0%                                                                                            $1,500       0                                                                                        92.0%
+                                                                                                       $1,000       -1                                                                                       91.0%
+     -10.0%
+                                                                                                       $500         -2                                                                                       90.0%
+     -15.0%                                                                                            $-
+
+
+
+                            Rent Change Y-o-Y (L)                      Monthly Rent Per Unit (R)
+                                                                                                                                          Occupancy Change Y-o-Y (L)              Occupancy Rate (R)
+
+
+7       CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                             © 2026 CBRE, INC.
+          FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026                                               San Francisco/Peninsula
+    FIGURE 5: Completions and Absorption                                                                                                  FIGURE 6: Median Household Income and National Comparison
+     Units (thousands)                                                                          Completions             Net Absorption      Median Household Income                                                                Average Monthly Rent Per Unit
+      7                                                                                                                                     $170,000                                                                                                             $5,000
+      6
+                                                                                                                                            $150,000                                                                                                             $4,000
+      5
+      4                                                                                                                                     $130,000
+                                                                                                                                                                                                                                                                 $3,000
+      3
+                                                                                                                                            $110,000
+      2
+                                                                                                                                                                                                                                                                 $2,000
+      1                                                                                                                                      $90,000
+      0                                                                                                                                                                                                                                                          $1,000
+                                                                                                                                             $70,000
+     -1
+     -2                                                                                                                                      $50,000                                                                                                             $0
+                                                                                                                                                             2020           2021           2022          2023          2024          2025            2026
+                                                                                                                                                    San Francisco-Redwood City-South San Francisco MSA          USA        San Francisco Avg. Rent          USA Avg. Rent
+
+          *Net Absorption: The change in occupied units from one period to the next, recognized at the tenant move-in date.
+                                                                                                                                         Source: CBRE Research, CBRE Econometric Advisors, Oxford Economics, Q2 2026
+
+    FIGURE 7: Net Absorption                                                                                                              FIGURE 8: Units Delivered and Inventory Change
+
+      Units                                                                                                                                 Units                                                                                                              % Change
+      14,000                                                                                                                                1,800                                                                                                                  1.8%
+      12,000                                                                                                                                1,600                                                                                                                  1.6%
+                                                                                                                                            1,400                                                                                                                  1.4%
+      10,000
+                                                                                                                                            1,200                                                                                                                  1.2%
+       8,000                                                                                                                                1,000                                                                                                                  1.0%
+       6,000                                                                                                                                  800                                                                                                                  0.8%
+                                                                                                                                              600                                                                                                                  0.6%
+       4,000
+                                                                                                                                              400                                                                                                                  0.4%
+       2,000                                                                                                                                  200                                                                                                                  0.2%
+            -                                                                                                                                   -                                                                                                                  0.0%
+      (2,000)
+                        2021                 2022                2023                 2024                2025                2026
+
+
+                                            Q1           Q2          Q3           Q4            Annual Total                                                                       Delivered (Units)            YOY Inventory Change (%)
+
+
+
+8         CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                                                                              © 2026 CBRE, INC.
+          FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026                                     San Francisco/Peninsula
+    FIGURE 9: Transaction Volume                                                                                            FIGURE 10: Quarterly Average Sale Price per Unit vs. Cap Rate
+    Volume ($ In Millions)                                                                              Units Transacted       Avg. Sale Price / Unit                                                                Avg. Cap Rate
+                                            Investment Volume ($)                 Units Transacted                                                                   Average Sale Price/ Unit     Average Cap Rate
+    $1,400                                                                                                       3,500         $550,000                                                                                     8.0%
+                                                                                                                               $500,000
+    $1,200                                                                                                       3,000                                                                                                      7.0%
+                                                                                                                               $450,000
+    $1,000                                                                                                       2,500         $400,000                                                                                     6.0%
+     $800                                                                                                        2,000         $350,000
+                                                                                                                                                                                                                            5.0%
+                                                                                                                               $300,000
+     $600                                                                                                        1,500
+                                                                                                                               $250,000                                                                                     4.0%
+     $400                                                                                                        1,000         $200,000
+                                                                                                                                                                                                                            3.0%
+     $200                                                                                                        500            $150,000
+        $0                                                                                                       0             $100,000                                                                                     2.0%
+
+
+
+
+    Source: CBRE Research, Real Capital Analytics, Q2 2026                                                                 Source: CBRE Research, Real Capital Analytics, Q2 2026
+
+    FIGURE 11: Notable Transactions
+
+
+      Property Name                                                   City                   Units          Year Built               Price                       Sale Price/Unit                Sale Price/SF        Sale Date
+
+                     Leahy Square                                 Redwood City                110              1973              $73,900,000                            $671,818                    $581              Jun-26
+
+                           Azara                                   San Mateo                   74              2021              $54,750,000                           $739,865                     $753              May-26
+
+                  950 Gough Street                                San Francisco                95              2020              $43,250,000                           $455,263                     $575              Apr-26
+
+                  Grosvenor Atrium                                San Francisco                80              1975              $35,500,000                           $443,750                     $441              May-26
+
+                     The Terraces                                 San Francisco                117             1975              $25,000,000                            $213,675                    $270              May-26
+
+         Source: CBRE Research, Real Capital Analytics, Q2 2026
+
+9        CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                                            © 2026 CBRE, INC.
+         FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026                                    Oakland/East Bay
+                                                                                                                     FIGURE 3: Top 5 Submarkets by Rent Growth
+      FIGURE 1: Occupancy and Average Asking Rental Rate – Oakland/East Bay
+         Occupancy (%)                                                                   Monthly Rent Per Unit ($)
+     98.0%                                                                                                 2,800                                                                              Oakland/Berkeley
+     97.0%                                                                                                 2,700
+                                                                                                                                                                                              Fremont
+     96.0%                                                                                                 2,600
+     95.0%                                                                                                 2,500                                                                              San Ramon/Dublin
+
+     94.0%                                                                                                 2,400
+                                                                                                                                                                                             Oakland/East Bay
+                                                                                                                                                                                             Oakland/East  Bay
+     93.0%                                                                                                 2,300
+     92.0%                                                                                                 2,200                                                                              Livermore/Pleasanton
+
+
+                                                                                                                            0.0%       1.0%         2.0%          3.0%        4.0%        5.0%
+                                                 Occupancy Rate               Monthly Rent Per Unit                                                        Rent Growth Y-o-Y (%)
+
+
+     FIGURE 2: Rent Change Year over Year                                                                            FIGURE 4: Occupancy Rate Change Year over Year
+      Rent Change Y-o-Y (%)                                                            Monthly Rent Per Unit ($)      Occupancy Change Y-o-Y (bps)                                                        Occupancy Rate (%)
+      12.0%                                                                                              $2,800       3                                                                                               98.0%
+      10.0%
+                                                                                                         $2,700       2                                                                                                    97.0%
+       8.0%
+                                                                                                         $2,600        1                                                                                                   96.0%
+       6.0%
+       4.0%                                                                                              $2,500        -                                                                                                   95.0%
+       2.0%
+                                                                                                         $2,400       (1)                                                                                                  94.0%
+       0.0%
+                                                                                                         $2,300
+      -2.0%                                                                                                          (2)                                                                                                   93.0%
+      -4.0%                                                                                              $2,200
+                                                                                                                     (3)                                                                                                   92.0%
+
+
+                             Rent Change Y-o-Y (L)                     Monthly Rent Per Unit (R)
+                                                                                                                                                 Occupancy Change Y-o-Y (L)          Occupancy Rate (R)
+
+10       CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                                        © 2026 CBRE, INC.
+            FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026                                                         Oakland/East Bay
+     FIGURE 5: Completions and Absorption                                                                                                   FIGURE 6: Median Household Income and National Comparison
+      Units (thousands)                                                                            Completions             Net Absorption     Median Household Income                                                                 Average Monthly Rent Per Unit
+      4                                                                                                                                      $160,000                                                                                                         $3,000
+                                                                                                                                             $140,000
+       3                                                                                                                                                                                                                                                      $2,500
+                                                                                                                                             $120,000
+       2                                                                                                                                                                                                                                                      $2,000
+                                                                                                                                             $100,000
+       1                                                                                                                                      $80,000                                                                                                         $1,500
+                                                                                                                                              $60,000
+      0                                                                                                                                                                                                                                                       $1,000
+                                                                                                                                              $40,000
+      -1                                                                                                                                                                                                                                                      $500
+                                                                                                                                              $20,000
+
+      -2                                                                                                                                               $0                                                                                                     $0
+                                                                                                                                                               2020           2021          2022           2023            2024        2025       2026
+                                                                                                                                                        Oakland-Hayward-Berkeley MSA                    USA               Oakland Avg. Rent       USA Avg. Rent
+             *Net Absorption: The change in occupied units from one period to the next, recognized at the tenant move-in date.              Source: CBRE Research, CBRE Econometric Advisors, Oxford Economics, Q2 2026
+
+     FIGURE 7: Net Absorption                                                                                                                FIGURE 8: Units Delivered and Inventory Change
+
+       Units                                                                                                                                   Units                                                                                                         % Change
+           8,000                                                                                                                                1,800                                                                                                              2.5%
+                                                                                                                                                1,600
+           6,000
+                                                                                                                                                1,400                                                                                                              2.0%
+           4,000                                                                                                                                1,200
+                                                                                                                                                                                                                                                                   1.5%
+                                                                                                                                                1,000
+           2,000
+                                                                                                                                                 800
+                                                                                                                                                                                                                                                                   1.0%
+              -                                                                                                                                  600
+
+       (2,000)                                                                                                                                   400                                                                                                               0.5%
+                                                                                                                                                 200
+       (4,000)                                                                                                                                     -                                                                                                               0.0%
+                           2021                 2022                2023                 2024                2025                2026
+
+
+                                               Q1           Q2          Q3           Q4            Annual Total
+                                                                                                                                                                                      Delivered (Units)             YOY Inventory Change (%)
+
+
+11          CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                                                                             © 2026 CBRE, INC.
+           FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026                                 Oakland/East Bay
+     FIGURE 9: Transaction Volume                                                                                     FIGURE 10: Quarterly Average Sale Price per Unit vs. Cap Rate
+
+       Volume ($ In Millions)                                                                     Units Transacted   Avg. Sale Price / Unit                                                               Avg. Cap Rate
+                                               Investment Volume ($)           Units Transacted                                                             Average Sale Price/ Unit   Average Cap Rate
+        1,200                                                                                              3,000     $450,000                                                                                    8.0%
+                                                                                                                     $400,000                                                                                    7.0%
+        1,000                                                                                              2,500
+                                                                                                                     $350,000
+          800                                                                                              2,000                                                                                                 6.0%
+                                                                                                                     $300,000
+          600                                                                                              1,500                                                                                                 5.0%
+                                                                                                                     $250,000
+          400                                                                                              1,000                                                                                                 4.0%
+                                                                                                                     $200,000
+          200                                                                                              500
+                                                                                                                     $150,000                                                                                    3.0%
+             0                                                                                             0
+                                                                                                                     $100,000                                                                                    2.0%
+
+
+
+     Source: CBRE Research, Real Capital Analytics, Q2 2026                                                          Source: CBRE Research, Real Capital Analytics, Q2 2026
+
+     FIGURE 11: Notable Transactions
+
+
+       Property Name                                                 City                Units        Year Built                 Price                      Sale Price/Unit            Sale Price/SF       Sale Date
+
+
+            Bollinger Crest Apartments                             San Ramon               65             2000               $31,250,000                           $480,769                  $441            May-26
+
+
+                 Briarwood Apartments                              Livermore               64             1961               $19,662,000                            $307,219                $388             May-26
+
+
+                 Outrigger Apartments                              Livermore               42             1964                $11,625,000                           $276,786                $345             May-26
+
+
+
+          Source: CBRE Research, Real Capital Analytics, Q2 2026
+
+12         CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                                © 2026 CBRE, INC.
+     FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026              Notable Bay Area Transactions
+                        Property Name                             City        Units   Year Built      Price       Sale Price/Unit   Sale Price/SF   Sale Date
+
+                              The Fay                           San Jose       336      2024       $175,000,000      $520,833           $403         May-26
+
+                     Meridian At Midtown                        San Jose       218      2015       $105,250,000      $482,798           $531         Jun-26
+
+               Almaden Terrace Apartments                       San Jose       262       1972      $87,667,000       $334,607           $379         Jun-26
+
+                         The Highlander                        Sunnyvale       173      1969       $69,500,000       $401,734           $320         Jun-26
+
+                       Saratoga Gardens                         San Jose       75       1985       $28,850,000       $384,667           $315         May-26
+
+                          Leahy Square                        Redwood City     110       1973      $73,900,000        $671,818          $581         Jun-26
+
+                               Azara                           San Mateo       74        2021      $54,750,000       $739,865           $753         May-26
+
+                       950 Gough Street                       San Francisco    95       2020       $43,250,000       $455,263           $575         Apr-26
+
+                       Grosvenor Atrium                       San Francisco    80        1975      $35,500,000       $443,750           $441         May-26
+
+                          The Terraces                        San Francisco    117       1975      $25,000,000        $213,675          $270         May-26
+
+               Bollinger Crest Apartments                     San Ramon        65       2000       $31,250,000       $480,769           $441         May-26
+
+                  Briarwood Apartments                         Livermore       64       1961       $19,662,000       $307,219           $388         May-26
+
+                   Outrigger Apartments                        Livermore       42       1964       $11,625,000       $276,786           $345         May-26
+
+     Source: CBRE Research, Real Capital Analytics, Q2 2026
+
+13   CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                               © 2026 CBRE, INC.
+     FIGURES | SAN FRANCISCO BAY AREA MULTIFAMILY | Q2 2026
+
+
+
+
+     Bay Area Multifamily Submarkets                                                                                                                   Northern California Multifamily Investment Sales
+                                                                                                                                                           Jon Teel                       Ben Mollahan                        Adam Foley                        Ryan Fox
+                                                                                                                                                           Senior Vice President          Vice President                      Senior Associate                  Associate
+                                                                                                                                                           +1 408 603 7772                +1 415 535 7414                     +1 408 893 8063                   +1 408 409 3431
+                                                                                                                                                           Jon.Teel@cbre.com              Ben.Mollahan@cbre.com               Adam.Foley@cbre.com               RFox@cbre.com
+                                                                                                                                                           Lic. 02023945                  Lic. 02136790                       Lic. 02144332                     Lic. 02302077
+                                                                                                                                                           Jack Markey                    Jacob Hoggatt
+                                                                                                                                                           Associate                      Associate
+                                                                                                                                                           +1 925 482 5143                +1 925 493 9011
+                                                                                                                                                           Jack.Markey@cbre.com           Jacob.Hoggatt@cbre.com
+                                                                                                                                                           Lic. 02204530                  Lic. 02246975
+                                                                                                                                                       Northern California Research Team
+                                                                                                                                                         Giovanni Giannotta        Suzy Malburg
+                                                                                                                                                           Field Research Manager                Field Research Analyst
+                                                                                                                                                           Giovanni.giannotta@cbre.com           Suzy.Malburg@cbre.com
+                                                                                                                                                       Econometric Advisors Contacts
+                                                                                                                                                         Tyler Mangin
+                                                                                                                                                           Sr. Economist, Multifamily
+                                                                                                                                                           Tyler.Mangin@cbre.com
+                                                                                                                                                           SAN FRANCISCO OFFICE                           SAN JOSE OFFICE                                PALO ALTO OFFICE
+                                                                                                                                                           415 Mission St, Suite 4600                     225 W Santa Clara St, Suite 1200               400 Hamilton Ave, 4th Floor
+                                                                                                                                                           San Francisco, CA 94105                        San Jose, CA 95113                             Palo Alto, CA 94301
+                                                                                                                                                           +1 415 772 0123                                +1 408 453 7400                                +1 650 494 5100
+
+                                                                                                                                                           Definitions
+                                                                                                                                                           Net Absorption: The change in occupied units from one period to the next, recognized at the tenant move-in date.
+                                                                                                                                                           Vacancy: Stabilized apartment units that are physically vacant.
+
+
+     © Copyright 2026 All rights reserved. Information contained herein, including projections, has been obtained from sources believed to be reliable, but has not been verified for accuracy or completeness. CBRE, Inc. makes no guarantee, warranty or representation about it. Any reliance on
+     such information is solely at your own risk. This information is exclusively for use by CBRE clients and professionals and may not be reproduced without the prior written permission of CBRE’s Global Chief Economist.
+
+
+
+14   CBRE RESEARCH, CBRE Econometric Advisors Q2 2026                                                                                                                                                                                                                            © 2026 CBRE, INC.
+
